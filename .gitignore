@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Large datasets
+data/
+!data/README.md
+
+# Outputs
+outputs/
