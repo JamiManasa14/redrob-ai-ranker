@@ -1,0 +1,1001 @@
+candidate_id,semantic_score,skill_match,matched_skills,experience,github,profile_score,response_rate,open_to_work,final_score
+CAND_0077420,0.6372,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",14.8,-1.0,82.2,0.78,True,0.6391
+CAND_0067226,0.6491,0.2,"embeddings, faiss, llms, pinecone, rag",11.4,49.0,74.9,0.37,True,0.6378
+CAND_0017014,0.6442,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",12.1,3.5,72.5,0.74,True,0.6376
+CAND_0059294,0.6422,0.2,"embeddings, faiss, langchain, pinecone, rag",13.0,49.2,64.0,0.63,True,0.6368
+CAND_0000847,0.6508,0.2,"embeddings, faiss, llms, pinecone, rag",14.5,5.7,74.8,0.7,True,0.6355
+CAND_0036871,0.6372,0.2,"embeddings, faiss, langchain, llms, rag",13.4,32.5,76.4,0.56,True,0.6333
+CAND_0066945,0.6344,0.16,"embeddings, langchain, pinecone, rag",11.5,46.8,68.0,0.77,True,0.6324
+CAND_0002825,0.6503,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",13.7,-1.0,74.9,0.43,True,0.6315
+CAND_0066628,0.6519,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",10.4,42.4,66.1,0.77,False,0.6308
+CAND_0023896,0.6615,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",13.4,33.3,59.1,0.11,True,0.6296
+CAND_0049237,0.6389,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",9.9,4.0,82.7,0.45,True,0.6295
+CAND_0042593,0.6363,0.16,"faiss, langchain, llms, pinecone",13.3,34.3,68.5,0.75,True,0.6292
+CAND_0056097,0.6339,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",13.2,32.8,60.5,0.51,True,0.6284
+CAND_0039653,0.6322,0.12,"embeddings, llms, pinecone",12.0,48.5,70.4,0.78,True,0.6273
+CAND_0005085,0.6464,0.2,"faiss, langchain, llms, pinecone, rag",14.7,-1.0,69.6,0.63,True,0.6269
+CAND_0067993,0.6356,0.2,"embeddings, faiss, llms, pinecone, rag",10.8,-1.0,76.7,0.69,True,0.6269
+CAND_0000361,0.6399,0.16,"faiss, langchain, pinecone, rag",10.2,49.8,72.4,0.39,True,0.6268
+CAND_0099392,0.6482,0.16,"faiss, langchain, pinecone, rag",13.7,16.4,75.5,0.5,True,0.6258
+CAND_0060832,0.6396,0.16,"embeddings, faiss, langchain, pinecone",12.6,23.7,74.5,0.56,True,0.6249
+CAND_0045258,0.6496,0.16,"embeddings, faiss, llms, rag",14.9,44.7,51.1,0.57,True,0.6249
+CAND_0028830,0.6543,0.12,"embeddings, faiss, rag",12.0,37.8,73.4,0.38,True,0.6246
+CAND_0033243,0.64,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",10.6,-1.0,83.2,0.23,True,0.6245
+CAND_0088891,0.6497,0.2,"embeddings, faiss, langchain, pinecone, rag",13.6,24.8,48.0,0.59,True,0.624
+CAND_0019175,0.6386,0.16,"embeddings, llms, pinecone, rag",11.7,44.6,57.2,0.59,True,0.623
+CAND_0078518,0.645,0.2,"embeddings, faiss, llms, pinecone, rag",11.3,-1.0,58.6,0.7,True,0.6228
+CAND_0067229,0.6338,0.2,"embeddings, faiss, llms, pinecone, rag",12.9,27.3,64.4,0.46,True,0.6211
+CAND_0065111,0.6519,0.16,"langchain, llms, pinecone, rag",12.8,-1.0,72.5,0.48,True,0.6206
+CAND_0012498,0.6546,0.2,"embeddings, faiss, langchain, pinecone, rag",10.2,-1.0,43.9,0.7,True,0.6202
+CAND_0047065,0.6526,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",12.2,35.0,75.6,0.32,False,0.6202
+CAND_0012985,0.6417,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",10.1,20.3,54.2,0.32,True,0.6196
+CAND_0065293,0.6327,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",10.2,23.0,52.6,0.46,True,0.6194
+CAND_0061298,0.6481,0.16,"embeddings, faiss, langchain, pinecone",14.8,-1.0,66.8,0.57,True,0.6185
+CAND_0074657,0.6365,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",12.5,39.1,29.2,0.59,True,0.6183
+CAND_0092941,0.6349,0.2,"embeddings, faiss, llms, pinecone, rag",14.4,-1.0,56.1,0.76,True,0.6183
+CAND_0047068,0.6511,0.2,"embeddings, faiss, langchain, llms, rag",9.5,17.9,79.8,0.24,True,0.618
+CAND_0019892,0.6395,0.2,"embeddings, faiss, langchain, llms, rag",10.6,-1.0,58.3,0.63,True,0.6178
+CAND_0053768,0.6372,0.16,"faiss, llms, pinecone, rag",14.3,-1.0,67.2,0.71,True,0.6175
+CAND_0042642,0.6425,0.2,"embeddings, langchain, llms, pinecone, rag",11.5,31.7,38.5,0.55,True,0.6165
+CAND_0098299,0.6351,0.2,"embeddings, faiss, llms, pinecone, rag",12.0,44.9,76.2,0.58,False,0.6165
+CAND_0053774,0.6375,0.16,"embeddings, langchain, llms, rag",11.9,-1.0,80.6,0.43,True,0.6159
+CAND_0042282,0.635,0.2,"embeddings, faiss, langchain, pinecone, rag",11.0,36.9,69.5,0.75,False,0.6158
+CAND_0055414,0.6424,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",14.3,-1.0,56.3,0.3,True,0.6144
+CAND_0096391,0.637,0.2,"embeddings, langchain, llms, pinecone, rag",9.8,19.6,83.5,0.74,False,0.6143
+CAND_0086059,0.6474,0.16,"langchain, llms, pinecone, rag",14.2,-1.0,66.9,0.44,True,0.6143
+CAND_0007915,0.6354,0.16,"embeddings, faiss, langchain, rag",10.9,-1.0,79.7,0.42,True,0.6142
+CAND_0042262,0.6381,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",13.8,-1.0,52.0,0.43,True,0.6139
+CAND_0065861,0.6419,0.08,"embeddings, pinecone",13.2,-1.0,76.8,0.73,True,0.6132
+CAND_0065117,0.6315,0.16,"embeddings, langchain, pinecone, rag",11.3,-1.0,71.5,0.59,True,0.6132
+CAND_0053507,0.6335,0.2,"embeddings, faiss, langchain, pinecone, rag",14.7,1.7,74.2,0.29,True,0.6131
+CAND_0070585,0.6399,0.16,"embeddings, llms, pinecone, rag",14.0,26.6,82.9,0.64,False,0.6126
+CAND_0042423,0.6457,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",11.9,-1.0,47.5,0.32,True,0.6122
+CAND_0034735,0.6381,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",10.2,-1.0,71.7,0.7,False,0.6119
+CAND_0065028,0.6511,0.2,"embeddings, faiss, langchain, llms, rag",12.5,32.9,52.5,0.67,False,0.6118
+CAND_0066921,0.6569,0.16,"embeddings, langchain, llms, pinecone",14.6,5.2,32.3,0.72,True,0.6117
+CAND_0037003,0.634,0.2,"faiss, langchain, llms, pinecone, rag",12.8,-1.0,73.7,0.26,True,0.6116
+CAND_0044023,0.6437,0.16,"embeddings, langchain, llms, rag",9.7,-1.0,57.9,0.76,True,0.6116
+CAND_0096290,0.6506,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",11.5,49.8,46.5,0.4,False,0.6115
+CAND_0093043,0.6343,0.2,"embeddings, faiss, langchain, pinecone, rag",12.6,44.1,52.6,0.15,True,0.6112
+CAND_0027138,0.634,0.2,"faiss, langchain, llms, pinecone, rag",12.6,20.9,28.3,0.78,True,0.6108
+CAND_0055838,0.6458,0.2,"embeddings, faiss, langchain, llms, rag",12.0,-1.0,33.2,0.71,True,0.6108
+CAND_0018484,0.6448,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",12.8,-1.0,75.4,0.48,False,0.6105
+CAND_0089059,0.6337,0.2,"embeddings, faiss, langchain, pinecone, rag",12.9,-1.0,57.0,0.5,True,0.6104
+CAND_0027651,0.6557,0.2,"embeddings, faiss, langchain, llms, pinecone",11.2,10.9,64.5,0.56,False,0.6102
+CAND_0011168,0.6374,0.16,"embeddings, llms, pinecone, rag",13.8,-1.0,50.5,0.74,True,0.6102
+CAND_0014311,0.6441,0.2,"faiss, langchain, llms, pinecone, rag",9.8,-1.0,80.5,0.05,True,0.6098
+CAND_0029627,0.6417,0.2,"faiss, langchain, llms, pinecone, rag",11.1,-1.0,47.0,0.51,True,0.6097
+CAND_0035542,0.6409,0.16,"embeddings, faiss, llms, pinecone",11.4,30.6,27.5,0.74,True,0.6096
+CAND_0093684,0.6392,0.16,"embeddings, faiss, llms, rag",12.5,42.2,62.4,0.72,False,0.6091
+CAND_0021117,0.6334,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",14.0,-1.0,83.7,0.48,False,0.609
+CAND_0044395,0.6474,0.16,"embeddings, faiss, langchain, llms",12.6,47.2,73.3,0.35,False,0.609
+CAND_0035664,0.6463,0.16,"embeddings, faiss, llms, pinecone",11.5,-1.0,84.4,0.64,False,0.6086
+CAND_0042429,0.6459,0.16,"embeddings, faiss, pinecone, rag",12.5,-1.0,65.6,0.29,True,0.6085
+CAND_0015831,0.6323,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",14.7,-1.0,32.6,0.67,True,0.6085
+CAND_0051537,0.634,0.12,"faiss, langchain, rag",13.4,20.5,64.5,0.5,True,0.6084
+CAND_0017119,0.6382,0.16,"embeddings, langchain, llms, pinecone",14.5,43.0,69.3,0.59,False,0.6084
+CAND_0099951,0.6454,0.2,"faiss, langchain, llms, pinecone, rag",14.0,-1.0,81.3,0.5,False,0.6083
+CAND_0017837,0.6375,0.2,"embeddings, langchain, llms, pinecone, rag",14.5,-1.0,46.7,0.54,True,0.6083
+CAND_0047431,0.6319,0.2,"embeddings, faiss, langchain, pinecone, rag",11.3,36.2,76.0,0.45,False,0.6083
+CAND_0008102,0.6433,0.2,"embeddings, faiss, langchain, llms, rag",9.8,3.3,43.7,0.59,True,0.6082
+CAND_0073632,0.6485,0.16,"faiss, llms, pinecone, rag",11.6,-1.0,66.2,0.22,True,0.6079
+CAND_0087723,0.6429,0.16,"faiss, langchain, pinecone, rag",12.0,-1.0,45.0,0.65,True,0.6074
+CAND_0026248,0.6353,0.2,"embeddings, langchain, llms, pinecone, rag",10.7,2.4,60.5,0.29,True,0.6073
+CAND_0001980,0.6449,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",8.7,41.5,80.1,0.74,False,0.6072
+CAND_0054462,0.651,0.2,"embeddings, faiss, langchain, llms, pinecone",12.3,19.2,83.4,0.14,False,0.6072
+CAND_0067979,0.636,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",14.9,41.7,60.9,0.34,False,0.6072
+CAND_0057320,0.6356,0.2,"embeddings, faiss, langchain, llms, rag",14.4,-1.0,79.7,0.65,False,0.6071
+CAND_0012697,0.6353,0.16,"embeddings, faiss, langchain, llms",12.4,7.0,44.0,0.71,True,0.6071
+CAND_0091364,0.6442,0.2,"embeddings, langchain, llms, pinecone, rag",10.0,30.5,54.3,0.62,False,0.607
+CAND_0011223,0.6508,0.12,"embeddings, faiss, llms",13.9,32.3,73.4,0.56,False,0.6066
+CAND_0006334,0.6405,0.16,"embeddings, faiss, llms, pinecone",10.4,24.5,48.1,0.35,True,0.6062
+CAND_0067475,0.6419,0.16,"faiss, llms, pinecone, rag",14.2,-1.0,75.9,0.77,False,0.606
+CAND_0041662,0.6596,0.2,"faiss, langchain, llms, pinecone, rag",13.1,-1.0,47.0,0.08,True,0.6057
+CAND_0076006,0.668,0.16,"embeddings, faiss, pinecone, rag",13.7,39.3,67.0,0.07,False,0.6054
+CAND_0007965,0.6368,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",11.5,16.1,55.9,0.6,False,0.6052
+CAND_0004330,0.6389,0.16,"embeddings, langchain, pinecone, rag",13.8,27.5,62.5,0.74,False,0.6052
+CAND_0005248,0.6455,0.2,"faiss, langchain, llms, pinecone, rag",10.6,29.0,62.9,0.41,False,0.6052
+CAND_0056029,0.6426,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",10.5,-1.0,40.8,0.25,True,0.6052
+CAND_0048859,0.6407,0.12,"faiss, pinecone, rag",13.4,-1.0,54.7,0.65,True,0.6052
+CAND_0050943,0.6362,0.12,"embeddings, llms, rag",13.0,42.8,29.2,0.71,True,0.6048
+CAND_0025634,0.6367,0.12,"langchain, llms, pinecone",9.9,-1.0,67.2,0.56,True,0.6048
+CAND_0046199,0.6326,0.2,"embeddings, faiss, langchain, llms, pinecone",10.9,-1.0,72.0,0.08,True,0.6047
+CAND_0077095,0.6445,0.16,"faiss, langchain, llms, rag",11.3,-1.0,65.5,0.19,True,0.6047
+CAND_0067956,0.6513,0.16,"embeddings, langchain, llms, rag",11.5,43.1,32.9,0.19,True,0.6047
+CAND_0085950,0.6479,0.16,"embeddings, faiss, langchain, llms",11.2,-1.0,61.2,0.19,True,0.6043
+CAND_0069038,0.6425,0.2,"embeddings, faiss, llms, pinecone, rag",12.6,20.9,65.7,0.46,False,0.6042
+CAND_0099844,0.635,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",12.4,39.5,68.9,0.14,False,0.604
+CAND_0018477,0.6418,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",13.9,-1.0,47.9,0.1,True,0.6039
+CAND_0058718,0.641,0.12,"embeddings, faiss, langchain",14.9,6.3,63.2,0.39,True,0.6037
+CAND_0068057,0.6423,0.2,"embeddings, faiss, langchain, pinecone, rag",9.2,-1.0,77.4,0.33,True,0.6037
+CAND_0021768,0.641,0.12,"embeddings, pinecone, rag",11.1,-1.0,75.7,0.24,True,0.6036
+CAND_0021290,0.6373,0.2,"embeddings, faiss, llms, pinecone, rag",9.6,-1.0,45.6,0.66,True,0.6033
+CAND_0082959,0.6433,0.08,"langchain, pinecone",13.1,2.4,67.2,0.51,True,0.6033
+CAND_0056324,0.6341,0.2,"embeddings, faiss, llms, pinecone, rag",10.9,-1.0,29.7,0.71,True,0.6032
+CAND_0096943,0.6451,0.16,"embeddings, faiss, llms, pinecone",12.2,48.5,41.1,0.72,False,0.6032
+CAND_0035594,0.6415,0.16,"embeddings, faiss, langchain, llms",10.8,-1.0,36.2,0.68,True,0.6032
+CAND_0012713,0.6519,0.16,"faiss, langchain, llms, rag",14.4,-1.0,70.3,0.6,False,0.6031
+CAND_0050607,0.633,0.12,"llms, pinecone, rag",12.4,-1.0,63.6,0.55,True,0.6028
+CAND_0098498,0.6473,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",13.4,-1.0,41.2,0.08,True,0.6026
+CAND_0036847,0.6408,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",13.5,48.0,37.1,0.42,False,0.602
+CAND_0027976,0.6411,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",12.6,-1.0,75.1,0.26,False,0.6019
+CAND_0026922,0.6339,0.2,"faiss, langchain, llms, pinecone, rag",12.5,-1.0,47.5,0.37,True,0.6018
+CAND_0077566,0.6518,0.12,"langchain, llms, pinecone",13.8,-1.0,43.2,0.54,True,0.6017
+CAND_0080665,0.6336,0.16,"langchain, llms, pinecone, rag",10.4,-1.0,48.8,0.54,True,0.6014
+CAND_0084524,0.6333,0.16,"faiss, langchain, pinecone, rag",11.4,-1.0,41.6,0.66,True,0.6013
+CAND_0041562,0.6323,0.16,"embeddings, langchain, pinecone, rag",12.1,-1.0,60.6,0.36,True,0.6012
+CAND_0081313,0.6371,0.16,"embeddings, faiss, llms, rag",14.5,-1.0,58.4,0.31,True,0.601
+CAND_0017575,0.6411,0.12,"faiss, langchain, pinecone",12.9,6.1,52.7,0.46,True,0.6006
+CAND_0035204,0.6382,0.2,"embeddings, faiss, langchain, pinecone, rag",11.3,-1.0,76.1,0.45,False,0.6006
+CAND_0059623,0.6433,0.2,"embeddings, faiss, langchain, pinecone, rag",11.4,-1.0,74.9,0.38,False,0.6005
+CAND_0041211,0.6521,0.2,"embeddings, faiss, langchain, llms, rag",9.0,-1.0,81.7,0.12,True,0.6005
+CAND_0020019,0.6331,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",11.7,-1.0,40.4,0.25,True,0.6002
+CAND_0048526,0.6549,0.16,"embeddings, faiss, langchain, rag",11.9,47.8,42.9,0.43,False,0.6001
+CAND_0031707,0.65,0.12,"faiss, pinecone, rag",11.0,48.7,40.8,0.07,True,0.6001
+CAND_0080223,0.6401,0.2,"embeddings, faiss, langchain, llms, rag",10.0,-1.0,84.0,0.27,False,0.6001
+CAND_0097572,0.6607,0.08,"embeddings, pinecone",14.9,30.3,69.9,0.45,False,0.5999
+CAND_0012598,0.6495,0.16,"embeddings, faiss, langchain, llms",11.6,-1.0,78.0,0.4,False,0.5998
+CAND_0080615,0.6335,0.16,"faiss, langchain, llms, pinecone",11.4,-1.0,71.2,0.78,False,0.5997
+CAND_0043029,0.6343,0.2,"embeddings, faiss, langchain, llms, rag",10.2,-1.0,81.7,0.39,False,0.5997
+CAND_0021757,0.6342,0.2,"embeddings, faiss, langchain, llms, rag",11.4,-1.0,48.2,0.28,True,0.5996
+CAND_0032764,0.6429,0.16,"embeddings, faiss, langchain, rag",9.5,-1.0,65.3,0.38,True,0.5995
+CAND_0009707,0.635,0.16,"embeddings, langchain, llms, rag",11.2,48.0,51.8,0.59,False,0.5995
+CAND_0057202,0.6437,0.16,"embeddings, langchain, pinecone, rag",13.9,-1.0,70.1,0.62,False,0.5995
+CAND_0053099,0.6364,0.2,"embeddings, faiss, langchain, pinecone, rag",13.3,-1.0,70.7,0.53,False,0.5994
+CAND_0024839,0.6456,0.16,"embeddings, faiss, llms, pinecone",14.0,-1.0,59.4,0.76,False,0.5993
+CAND_0029275,0.6382,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",12.3,24.0,33.2,0.66,False,0.5987
+CAND_0068716,0.6322,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",14.8,29.3,66.8,0.13,False,0.5982
+CAND_0062751,0.6482,0.2,"embeddings, faiss, langchain, pinecone, rag",9.7,-1.0,30.3,0.5,True,0.5982
+CAND_0019726,0.6342,0.16,"embeddings, llms, pinecone, rag",11.8,-1.0,30.7,0.72,True,0.5981
+CAND_0007587,0.6534,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",10.5,-1.0,38.5,0.53,False,0.5979
+CAND_0052750,0.6412,0.2,"embeddings, faiss, langchain, pinecone, rag",9.6,34.9,49.2,0.67,False,0.5978
+CAND_0012133,0.6508,0.12,"embeddings, langchain, rag",9.8,39.3,40.1,0.22,True,0.5978
+CAND_0066748,0.647,0.12,"embeddings, faiss, langchain",10.2,-1.0,82.6,0.5,False,0.5978
+CAND_0082330,0.6395,0.2,"embeddings, faiss, llms, pinecone, rag",14.2,26.6,33.5,0.11,True,0.5978
+CAND_0010108,0.6438,0.08,"faiss, llms",12.0,-1.0,84.5,0.71,False,0.5975
+CAND_0001095,0.6349,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",10.5,-1.0,58.1,0.5,False,0.5975
+CAND_0036923,0.64,0.12,"embeddings, faiss, pinecone",13.3,-1.0,44.1,0.58,True,0.5975
+CAND_0092696,0.6349,0.16,"faiss, langchain, llms, pinecone",12.7,38.6,43.8,0.75,False,0.5974
+CAND_0098617,0.6411,0.16,"embeddings, langchain, pinecone, rag",12.3,-1.0,52.5,0.22,True,0.5974
+CAND_0068512,0.6478,0.2,"embeddings, faiss, langchain, llms, rag",12.6,-1.0,31.1,0.26,True,0.5973
+CAND_0056954,0.6341,0.16,"embeddings, faiss, langchain, rag",12.9,12.5,63.5,0.69,False,0.5973
+CAND_0058592,0.6327,0.2,"embeddings, faiss, langchain, llms, rag",14.9,-1.0,73.4,0.47,False,0.5972
+CAND_0070407,0.6329,0.16,"embeddings, faiss, llms, pinecone",11.9,37.6,49.0,0.69,False,0.5969
+CAND_0018910,0.6368,0.16,"embeddings, faiss, llms, pinecone",10.0,31.1,58.0,0.54,False,0.5969
+CAND_0012067,0.6399,0.16,"embeddings, faiss, llms, pinecone",9.5,25.2,32.9,0.63,True,0.5969
+CAND_0022196,0.6361,0.2,"embeddings, faiss, llms, pinecone, rag",13.9,-1.0,50.3,0.12,True,0.5968
+CAND_0095395,0.6392,0.2,"embeddings, faiss, langchain, llms, rag",11.0,-1.0,63.3,0.51,False,0.5965
+CAND_0094691,0.6385,0.16,"embeddings, langchain, llms, rag",10.6,24.7,59.9,0.53,False,0.5965
+CAND_0060550,0.645,0.08,"faiss, langchain",13.3,-1.0,78.8,0.75,False,0.5964
+CAND_0014370,0.635,0.12,"embeddings, llms, pinecone",12.8,-1.0,41.6,0.67,True,0.5964
+CAND_0086969,0.652,0.2,"embeddings, faiss, langchain, pinecone, rag",12.6,-1.0,66.3,0.24,False,0.5963
+CAND_0059849,0.6316,0.16,"embeddings, faiss, llms, pinecone",11.6,33.4,83.8,0.15,False,0.5962
+CAND_0061391,0.6364,0.16,"embeddings, langchain, pinecone, rag",13.7,7.8,29.2,0.57,True,0.5962
+CAND_0086168,0.6328,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",9.2,10.4,48.8,0.41,True,0.5962
+CAND_0089263,0.6333,0.12,"faiss, langchain, llms",13.0,-1.0,78.8,0.73,False,0.596
+CAND_0037362,0.6323,0.12,"faiss, langchain, rag",13.6,-1.0,42.0,0.69,True,0.5959
+CAND_0004843,0.6333,0.16,"faiss, langchain, pinecone, rag",14.3,-1.0,50.0,0.34,True,0.5958
+CAND_0097684,0.6377,0.12,"embeddings, llms, pinecone",11.4,38.1,82.9,0.2,False,0.5957
+CAND_0011107,0.6361,0.04,rag,10.6,49.8,78.3,0.58,False,0.5956
+CAND_0096206,0.6353,0.2,"embeddings, faiss, llms, pinecone, rag",10.7,-1.0,62.7,0.55,False,0.5955
+CAND_0008046,0.6494,0.2,"embeddings, faiss, langchain, llms, rag",12.3,-1.0,77.4,0.07,False,0.5955
+CAND_0084306,0.6429,0.2,"faiss, langchain, llms, pinecone, rag",9.9,-1.0,68.6,0.37,False,0.5949
+CAND_0014257,0.6473,0.16,"faiss, langchain, llms, rag",13.8,-1.0,39.5,0.24,True,0.5946
+CAND_0054014,0.6321,0.2,"faiss, langchain, llms, pinecone, rag",13.4,-1.0,49.9,0.12,True,0.5946
+CAND_0017540,0.643,0.2,"embeddings, faiss, llms, pinecone, rag",13.1,41.3,30.2,0.52,False,0.5946
+CAND_0013186,0.6354,0.2,"embeddings, langchain, llms, pinecone, rag",11.5,-1.0,46.9,0.78,False,0.5945
+CAND_0066707,0.6343,0.2,"embeddings, faiss, langchain, pinecone, rag",12.0,-1.0,77.1,0.29,False,0.5944
+CAND_0025902,0.6453,0.16,"embeddings, faiss, pinecone, rag",13.7,-1.0,31.3,0.4,True,0.5943
+CAND_0076474,0.6389,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",11.7,-1.0,60.9,0.28,False,0.5943
+CAND_0008265,0.6369,0.12,"faiss, llms, pinecone",13.2,-1.0,41.0,0.57,True,0.5941
+CAND_0058674,0.6327,0.16,"embeddings, faiss, llms, rag",12.5,48.0,53.0,0.42,False,0.5939
+CAND_0060712,0.6438,0.16,"langchain, llms, pinecone, rag",12.2,-1.0,30.2,0.43,True,0.5939
+CAND_0024506,0.646,0.08,"llms, pinecone",14.4,-1.0,52.9,0.41,True,0.5937
+CAND_0073877,0.6511,0.12,"embeddings, faiss, langchain",10.2,13.8,76.1,0.26,False,0.5936
+CAND_0079674,0.6328,0.12,"faiss, langchain, pinecone",9.5,39.0,73.0,0.7,False,0.5936
+CAND_0018393,0.6391,0.2,"embeddings, faiss, langchain, llms, pinecone",11.4,-1.0,57.2,0.51,False,0.5934
+CAND_0051435,0.6385,0.16,"faiss, langchain, pinecone, rag",8.0,24.4,81.8,0.73,True,0.5934
+CAND_0076977,0.6332,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",9.7,-1.0,78.0,0.25,False,0.5931
+CAND_0091686,0.6319,0.16,"faiss, langchain, pinecone, rag",12.2,-1.0,32.4,0.55,True,0.5927
+CAND_0074754,0.6371,0.16,"embeddings, faiss, langchain, rag",13.0,-1.0,28.4,0.53,True,0.5926
+CAND_0078318,0.6372,0.12,"embeddings, faiss, langchain",8.5,40.4,77.8,0.5,True,0.5926
+CAND_0055257,0.6442,0.16,"embeddings, faiss, llms, pinecone",13.0,-1.0,55.1,0.62,False,0.5922
+CAND_0098168,0.6349,0.16,"faiss, langchain, llms, pinecone",10.7,-1.0,64.5,0.61,False,0.592
+CAND_0000322,0.6567,0.12,"embeddings, langchain, pinecone",12.0,-1.0,84.3,0.11,False,0.5918
+CAND_0034880,0.6596,0.2,"embeddings, faiss, langchain, llms, rag",8.4,-1.0,63.0,0.41,True,0.5916
+CAND_0076752,0.6452,0.16,"embeddings, langchain, llms, rag",10.5,-1.0,56.1,0.56,False,0.5914
+CAND_0028971,0.6409,0.2,"embeddings, faiss, langchain, llms, rag",9.3,-1.0,58.5,0.19,True,0.5914
+CAND_0060786,0.6336,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",10.0,-1.0,56.1,0.34,False,0.591
+CAND_0033062,0.6385,0.16,"faiss, langchain, llms, pinecone",9.9,1.8,70.1,0.47,False,0.5909
+CAND_0036202,0.6399,0.08,"faiss, rag",15.0,-1.0,80.7,0.62,False,0.5909
+CAND_0096474,0.6318,0.2,"embeddings, faiss, langchain, pinecone, rag",10.8,-1.0,43.1,0.78,False,0.5909
+CAND_0014948,0.6387,0.2,"embeddings, faiss, langchain, pinecone, rag",8.3,32.0,77.2,0.24,True,0.5908
+CAND_0061040,0.6345,0.2,"embeddings, faiss, langchain, llms, pinecone",13.3,-1.0,57.1,0.49,False,0.5905
+CAND_0021885,0.6525,0.2,"embeddings, faiss, langchain, llms, pinecone",9.4,13.7,37.1,0.78,False,0.5903
+CAND_0027270,0.6424,0.2,"embeddings, faiss, langchain, llms, rag",11.7,-1.0,34.7,0.72,False,0.5902
+CAND_0084143,0.6391,0.16,"embeddings, faiss, llms, pinecone",12.8,-1.0,66.7,0.44,False,0.5901
+CAND_0004320,0.6423,0.2,"embeddings, faiss, langchain, llms, pinecone",12.5,7.5,48.2,0.42,False,0.5901
+CAND_0036891,0.6389,0.16,"embeddings, faiss, pinecone, rag",9.4,-1.0,38.4,0.65,True,0.5901
+CAND_0037919,0.6481,0.16,"embeddings, llms, pinecone, rag",9.6,7.9,79.7,0.26,False,0.5901
+CAND_0050222,0.6361,0.16,"faiss, langchain, llms, rag",12.6,-1.0,55.8,0.67,False,0.59
+CAND_0092195,0.6342,0.2,"embeddings, langchain, llms, pinecone, rag",9.4,-1.0,52.4,0.29,True,0.59
+CAND_0026624,0.6402,0.2,"embeddings, faiss, langchain, llms, pinecone",11.4,-1.0,42.5,0.62,False,0.5899
+CAND_0071763,0.6334,0.16,"embeddings, faiss, pinecone, rag",9.5,49.3,84.8,0.06,False,0.5897
+CAND_0037081,0.6443,0.16,"faiss, langchain, llms, rag",12.6,-1.0,63.4,0.39,False,0.5896
+CAND_0036898,0.6606,0.08,"embeddings, langchain",11.5,-1.0,77.6,0.28,False,0.5895
+CAND_0071369,0.6369,0.16,"embeddings, langchain, llms, rag",10.4,-1.0,65.1,0.48,False,0.5894
+CAND_0031676,0.644,0.2,"embeddings, faiss, langchain, llms, pinecone",9.5,-1.0,25.4,0.49,True,0.5894
+CAND_0005280,0.6367,0.12,"faiss, langchain, rag",12.7,-1.0,83.2,0.38,False,0.5893
+CAND_0063621,0.6572,0.16,"embeddings, faiss, langchain, pinecone",11.5,-1.0,39.8,0.56,False,0.5893
+CAND_0085219,0.6368,0.16,"embeddings, langchain, pinecone, rag",11.2,-1.0,62.5,0.52,False,0.5892
+CAND_0060894,0.6399,0.16,"langchain, llms, pinecone, rag",12.6,-1.0,73.6,0.28,False,0.5892
+CAND_0034449,0.6321,0.16,"embeddings, faiss, langchain, rag",11.0,-1.0,81.3,0.28,False,0.5891
+CAND_0043800,0.6406,0.16,"embeddings, faiss, langchain, llms",10.6,-1.0,33.2,0.27,True,0.589
+CAND_0031652,0.6367,0.16,"faiss, llms, pinecone, rag",13.2,-1.0,72.0,0.35,False,0.5889
+CAND_0050506,0.6402,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",11.7,-1.0,55.4,0.17,False,0.5889
+CAND_0043582,0.6461,0.16,"faiss, llms, pinecone, rag",11.0,-1.0,43.3,0.67,False,0.5888
+CAND_0090385,0.6316,0.2,"embeddings, faiss, llms, pinecone, rag",11.3,-1.0,75.3,0.18,False,0.5888
+CAND_0016369,0.6331,0.16,"embeddings, faiss, llms, rag",13.7,-1.0,51.9,0.74,False,0.5887
+CAND_0070583,0.6676,0.16,"embeddings, langchain, llms, rag",14.2,-1.0,39.4,0.37,False,0.5886
+CAND_0091469,0.6389,0.2,"embeddings, faiss, llms, pinecone, rag",14.5,-1.0,46.2,0.53,False,0.5885
+CAND_0067485,0.6349,0.12,"faiss, llms, rag",14.0,4.0,73.7,0.5,False,0.5885
+CAND_0091433,0.636,0.16,"embeddings, faiss, llms, rag",14.1,-1.0,34.8,0.3,True,0.5884
+CAND_0000330,0.6353,0.16,"embeddings, langchain, llms, rag",12.0,-1.0,57.4,0.6,False,0.5884
+CAND_0015207,0.6356,0.08,"embeddings, faiss",13.3,48.2,78.0,0.17,False,0.5884
+CAND_0066841,0.6387,0.16,"faiss, langchain, llms, pinecone",9.5,-1.0,82.3,0.46,False,0.5883
+CAND_0012432,0.6337,0.08,"embeddings, llms",14.8,-1.0,72.6,0.1,True,0.5881
+CAND_0089228,0.641,0.08,"faiss, langchain",9.7,-1.0,68.5,0.23,True,0.5877
+CAND_0088780,0.6406,0.16,"embeddings, faiss, langchain, rag",9.4,-1.0,80.0,0.51,False,0.5876
+CAND_0011505,0.6423,0.16,"embeddings, faiss, langchain, llms",14.7,-1.0,76.8,0.13,False,0.5875
+CAND_0028748,0.635,0.2,"embeddings, faiss, langchain, pinecone, rag",14.6,-1.0,62.0,0.3,False,0.5875
+CAND_0088596,0.6345,0.2,"embeddings, langchain, llms, pinecone, rag",12.1,-1.0,51.6,0.48,False,0.5875
+CAND_0056287,0.6384,0.08,"embeddings, llms",10.3,-1.0,75.4,0.61,False,0.5872
+CAND_0091045,0.6336,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",11.2,-1.0,37.0,0.52,False,0.5869
+CAND_0097581,0.6324,0.12,"langchain, pinecone, rag",14.7,-1.0,44.2,0.35,True,0.5868
+CAND_0061411,0.6376,0.12,"embeddings, langchain, pinecone",9.7,28.8,47.8,0.78,False,0.5867
+CAND_0049191,0.6348,0.2,"embeddings, langchain, llms, pinecone, rag",12.3,-1.0,46.4,0.53,False,0.5865
+CAND_0037030,0.6323,0.2,"embeddings, faiss, langchain, llms, pinecone",10.6,-1.0,50.6,0.5,False,0.5865
+CAND_0017718,0.6455,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",11.8,8.5,46.6,0.06,False,0.5864
+CAND_0098176,0.6335,0.16,"embeddings, faiss, langchain, llms",8.9,30.9,78.2,0.64,False,0.5863
+CAND_0095141,0.6361,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",9.7,-1.0,31.6,0.75,False,0.5863
+CAND_0047471,0.6338,0.04,rag,10.8,-1.0,81.2,0.09,True,0.5862
+CAND_0046105,0.6473,0.16,"embeddings, llms, pinecone, rag",9.2,-1.0,84.9,0.4,False,0.5861
+CAND_0012514,0.6463,0.16,"embeddings, faiss, langchain, pinecone",11.4,-1.0,59.9,0.3,False,0.5861
+CAND_0099649,0.6352,0.16,"faiss, langchain, pinecone, rag",14.8,-1.0,83.7,0.08,False,0.5859
+CAND_0055682,0.6411,0.12,"faiss, langchain, llms",14.0,36.7,25.3,0.12,True,0.5858
+CAND_0040259,0.6471,0.2,"embeddings, faiss, langchain, llms, rag",8.8,-1.0,73.9,0.64,False,0.5857
+CAND_0055573,0.6384,0.2,"embeddings, faiss, langchain, llms, rag",11.7,-1.0,70.0,0.05,False,0.5857
+CAND_0035278,0.6367,0.16,"langchain, llms, pinecone, rag",12.4,-1.0,58.9,0.46,False,0.5856
+CAND_0000915,0.6424,0.12,"embeddings, faiss, llms",9.3,26.1,78.5,0.44,False,0.5855
+CAND_0071962,0.6326,0.08,"faiss, langchain",10.5,-1.0,43.2,0.52,True,0.5855
+CAND_0088349,0.6397,0.2,"embeddings, faiss, llms, pinecone, rag",11.9,46.1,38.9,0.08,False,0.5855
+CAND_0038690,0.6338,0.16,"embeddings, faiss, langchain, llms",13.4,33.5,47.4,0.36,False,0.5855
+CAND_0026066,0.6383,0.12,"faiss, langchain, pinecone",12.2,-1.0,49.0,0.12,True,0.5853
+CAND_0015750,0.6428,0.12,"embeddings, llms, rag",13.5,-1.0,53.9,0.63,False,0.5852
+CAND_0093714,0.652,0.2,"embeddings, faiss, langchain, llms, rag",9.1,43.4,44.7,0.39,False,0.5851
+CAND_0014968,0.6396,0.12,"faiss, llms, rag",11.4,-1.0,29.6,0.41,True,0.5849
+CAND_0093631,0.6358,0.08,"faiss, langchain",10.7,-1.0,82.5,0.45,False,0.5847
+CAND_0082088,0.6357,0.16,"embeddings, faiss, langchain, rag",13.9,-1.0,58.4,0.45,False,0.5846
+CAND_0095111,0.6332,0.2,"embeddings, faiss, langchain, pinecone, rag",10.6,-1.0,26.8,0.15,True,0.5845
+CAND_0022901,0.6337,0.16,"embeddings, faiss, langchain, llms",11.2,-1.0,52.3,0.58,False,0.5844
+CAND_0027554,0.6462,0.16,"faiss, langchain, llms, rag",9.9,-1.0,32.9,0.76,False,0.5843
+CAND_0089859,0.6401,0.16,"embeddings, faiss, langchain, llms",13.3,-1.0,60.2,0.34,False,0.5843
+CAND_0033202,0.6401,0.16,"embeddings, faiss, llms, pinecone",14.3,-1.0,36.6,0.73,False,0.5842
+CAND_0021997,0.642,0.16,"faiss, langchain, llms, pinecone",14.9,-1.0,43.5,0.58,False,0.5842
+CAND_0093814,0.6395,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",11.9,-1.0,40.1,0.27,False,0.5839
+CAND_0061740,0.64,0.16,"embeddings, faiss, langchain, rag",14.7,-1.0,55.5,0.4,False,0.5838
+CAND_0054916,0.632,0.16,"faiss, langchain, llms, pinecone",9.0,-1.0,82.8,0.73,False,0.5833
+CAND_0053713,0.6319,0.2,"embeddings, faiss, llms, pinecone, rag",13.0,15.1,45.7,0.33,False,0.5832
+CAND_0064215,0.6543,0.16,"embeddings, langchain, llms, rag",8.7,-1.0,33.0,0.72,True,0.5832
+CAND_0019965,0.6361,0.12,"embeddings, llms, pinecone",13.0,16.3,52.4,0.53,False,0.583
+CAND_0067126,0.6358,0.2,"embeddings, faiss, langchain, llms, pinecone",14.3,36.0,45.4,0.05,False,0.5829
+CAND_0041053,0.6346,0.08,"faiss, rag",10.5,-1.0,62.6,0.74,False,0.5828
+CAND_0010324,0.6389,0.16,"embeddings, faiss, langchain, rag",9.9,-1.0,67.3,0.25,False,0.5826
+CAND_0004978,0.6335,0.2,"embeddings, langchain, llms, pinecone, rag",9.7,-1.0,54.1,0.48,False,0.5822
+CAND_0001088,0.6494,0.2,"embeddings, faiss, langchain, llms, rag",8.1,-1.0,73.7,0.29,True,0.5822
+CAND_0082237,0.6325,0.2,"embeddings, faiss, llms, pinecone, rag",9.3,43.9,55.0,0.31,False,0.5822
+CAND_0056998,0.6345,0.2,"embeddings, faiss, langchain, pinecone, rag",11.0,9.2,53.7,0.17,False,0.582
+CAND_0084956,0.6367,0.2,"faiss, langchain, llms, pinecone, rag",9.4,-1.0,70.1,0.35,False,0.5819
+CAND_0076590,0.6394,0.2,"embeddings, faiss, langchain, llms, pinecone",9.0,-1.0,64.2,0.67,False,0.5819
+CAND_0036487,0.6545,0.16,"embeddings, langchain, pinecone, rag",9.7,-1.0,57.3,0.26,False,0.5817
+CAND_0016666,0.6544,0.12,"embeddings, langchain, pinecone",11.0,4.1,42.9,0.46,False,0.5817
+CAND_0050394,0.6372,0.2,"embeddings, langchain, llms, pinecone, rag",14.6,-1.0,56.4,0.16,False,0.5816
+CAND_0066843,0.6483,0.12,"embeddings, faiss, rag",13.0,-1.0,47.1,0.53,False,0.5816
+CAND_0089814,0.6406,0.16,"faiss, langchain, llms, pinecone",13.5,12.1,28.3,0.65,False,0.5816
+CAND_0059839,0.6326,0.2,"embeddings, faiss, langchain, llms, pinecone",9.5,-1.0,44.5,0.75,False,0.5811
+CAND_0074450,0.6363,0.16,"faiss, langchain, llms, pinecone",9.4,-1.0,77.0,0.41,False,0.581
+CAND_0097972,0.6366,0.16,"embeddings, langchain, pinecone, rag",9.8,27.7,30.6,0.63,False,0.5808
+CAND_0024858,0.6491,0.16,"embeddings, faiss, langchain, rag",13.7,-1.0,55.3,0.15,False,0.5807
+CAND_0014180,0.6331,0.2,"embeddings, langchain, llms, pinecone, rag",9.6,41.6,53.6,0.09,False,0.5805
+CAND_0056928,0.6352,0.12,"langchain, llms, pinecone",11.7,10.0,37.9,0.76,False,0.5804
+CAND_0008177,0.6342,0.2,"faiss, langchain, llms, pinecone, rag",13.7,-1.0,50.8,0.26,False,0.5803
+CAND_0058188,0.6357,0.08,"embeddings, faiss",14.0,37.6,38.4,0.66,False,0.5801
+CAND_0057089,0.6407,0.16,"embeddings, langchain, pinecone, rag",13.8,-1.0,62.5,0.15,False,0.5801
+CAND_0030446,0.6344,0.0,,13.3,44.7,62.9,0.6,False,0.5801
+CAND_0095568,0.6358,0.16,"faiss, langchain, llms, pinecone",10.5,-1.0,30.4,0.1,True,0.5801
+CAND_0071822,0.6337,0.12,"embeddings, langchain, llms",14.9,-1.0,69.9,0.34,False,0.58
+CAND_0017706,0.6357,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",8.9,10.4,52.3,0.63,False,0.58
+CAND_0091698,0.6333,0.04,llms,12.6,-1.0,83.7,0.51,False,0.5798
+CAND_0032699,0.6318,0.2,"embeddings, faiss, langchain, llms, rag",12.8,-1.0,41.1,0.44,False,0.5797
+CAND_0014242,0.6335,0.16,"embeddings, langchain, llms, rag",9.6,36.3,52.6,0.32,False,0.5796
+CAND_0002154,0.6356,0.12,"langchain, pinecone, rag",12.1,-1.0,68.0,0.32,False,0.5794
+CAND_0071394,0.6494,0.08,"embeddings, llms",8.9,-1.0,72.2,0.27,True,0.5789
+CAND_0099116,0.6337,0.12,"langchain, pinecone, rag",13.1,37.0,37.8,0.47,False,0.5789
+CAND_0063439,0.6413,0.16,"embeddings, faiss, langchain, llms",13.4,-1.0,48.2,0.34,False,0.5789
+CAND_0013618,0.6335,0.12,"faiss, langchain, llms",10.1,-1.0,42.7,0.76,False,0.5789
+CAND_0063657,0.6638,0.08,"faiss, pinecone",14.9,-1.0,52.2,0.29,False,0.5787
+CAND_0019625,0.6348,0.16,"embeddings, langchain, llms, pinecone",13.5,-1.0,39.4,0.58,False,0.5785
+CAND_0055912,0.6351,0.2,"embeddings, faiss, langchain, llms, pinecone",12.5,-1.0,50.5,0.19,False,0.5785
+CAND_0095138,0.6358,0.08,"faiss, llms",13.8,35.4,38.3,0.62,False,0.5783
+CAND_0052994,0.6452,0.2,"embeddings, faiss, llms, pinecone, rag",6.6,48.2,76.3,0.7,True,0.5782
+CAND_0033586,0.633,0.12,"llms, pinecone, rag",10.1,-1.0,55.0,0.54,False,0.5782
+CAND_0079535,0.6318,0.0,,11.7,-1.0,78.9,0.76,False,0.5782
+CAND_0094739,0.6374,0.16,"embeddings, faiss, pinecone, rag",10.1,-1.0,52.8,0.3,False,0.5781
+CAND_0014195,0.6316,0.16,"embeddings, faiss, llms, pinecone",13.6,-1.0,61.6,0.25,False,0.5781
+CAND_0023524,0.6395,0.2,"faiss, langchain, llms, pinecone, rag",11.9,3.5,46.8,0.13,False,0.5781
+CAND_0073469,0.6346,0.16,"embeddings, langchain, llms, pinecone",12.9,43.1,34.0,0.23,False,0.5781
+CAND_0023179,0.6428,0.16,"embeddings, langchain, llms, rag",10.4,21.1,40.7,0.2,False,0.5781
+CAND_0032555,0.6384,0.16,"embeddings, faiss, langchain, pinecone",11.5,-1.0,41.3,0.47,False,0.578
+CAND_0068552,0.6404,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",9.9,-1.0,35.0,0.21,False,0.578
+CAND_0091295,0.6324,0.16,"faiss, langchain, pinecone, rag",12.6,-1.0,68.8,0.11,False,0.5779
+CAND_0056116,0.6351,0.2,"embeddings, faiss, langchain, pinecone, rag",9.2,-1.0,68.5,0.4,False,0.5778
+CAND_0019475,0.6384,0.08,"embeddings, faiss",11.4,42.0,48.1,0.33,False,0.5777
+CAND_0051210,0.6477,0.12,"faiss, langchain, llms",12.7,-1.0,52.3,0.32,False,0.5776
+CAND_0079545,0.634,0.2,"embeddings, langchain, llms, pinecone, rag",14.6,-1.0,35.9,0.42,False,0.5776
+CAND_0092767,0.6438,0.16,"embeddings, faiss, langchain, llms",9.0,-1.0,26.7,0.61,True,0.5775
+CAND_0027527,0.6357,0.04,langchain,11.5,-1.0,33.8,0.54,True,0.5769
+CAND_0053710,0.6408,0.16,"faiss, langchain, pinecone, rag",10.6,8.9,40.1,0.32,False,0.5767
+CAND_0052559,0.6362,0.12,"faiss, llms, rag",8.9,-1.0,67.2,0.3,True,0.5767
+CAND_0089858,0.6442,0.16,"embeddings, faiss, langchain, pinecone",14.9,-1.0,42.6,0.31,False,0.5767
+CAND_0074606,0.6329,0.12,"llms, pinecone, rag",11.7,-1.0,49.6,0.58,False,0.5767
+CAND_0093050,0.6348,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",8.5,-1.0,58.3,0.13,True,0.5765
+CAND_0062588,0.6409,0.16,"embeddings, langchain, pinecone, rag",11.7,-1.0,26.9,0.62,False,0.5765
+CAND_0031271,0.6319,0.2,"embeddings, faiss, llms, pinecone, rag",11.8,24.8,39.0,0.12,False,0.5765
+CAND_0040030,0.6332,0.08,"llms, rag",11.7,23.6,36.8,0.74,False,0.5763
+CAND_0073384,0.6381,0.12,"langchain, llms, rag",10.8,-1.0,69.4,0.15,False,0.5763
+CAND_0038894,0.6489,0.12,"embeddings, llms, pinecone",12.4,-1.0,44.6,0.38,False,0.5762
+CAND_0081203,0.6497,0.2,"embeddings, faiss, llms, pinecone, rag",7.7,-1.0,75.9,0.31,True,0.5761
+CAND_0021846,0.641,0.12,"embeddings, faiss, llms",14.0,-1.0,43.1,0.53,False,0.5759
+CAND_0031080,0.6337,0.16,"faiss, langchain, llms, pinecone",9.6,-1.0,31.2,0.25,True,0.5759
+CAND_0053325,0.6383,0.12,"faiss, llms, rag",14.6,-1.0,40.2,0.62,False,0.5759
+CAND_0006479,0.6361,0.04,embeddings,10.7,15.2,63.5,0.51,False,0.5756
+CAND_0020723,0.6335,0.12,"embeddings, faiss, rag",9.6,-1.0,78.0,0.32,False,0.5754
+CAND_0046174,0.634,0.2,"embeddings, faiss, langchain, llms, pinecone",11.9,-1.0,53.6,0.05,False,0.5753
+CAND_0001624,0.6336,0.0,,14.5,-1.0,74.9,0.7,False,0.5753
+CAND_0089902,0.636,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",13.7,-1.0,27.7,0.24,False,0.5751
+CAND_0051207,0.6379,0.16,"embeddings, faiss, langchain, llms",14.3,1.4,48.1,0.25,False,0.5749
+CAND_0051669,0.6409,0.2,"embeddings, faiss, langchain, llms, pinecone",8.8,-1.0,69.6,0.45,False,0.5748
+CAND_0090939,0.6369,0.16,"embeddings, faiss, langchain, llms",9.7,-1.0,65.2,0.19,False,0.5748
+CAND_0025660,0.6417,0.16,"faiss, langchain, llms, pinecone",9.4,-1.0,52.8,0.51,False,0.5745
+CAND_0098809,0.6402,0.2,"faiss, langchain, llms, pinecone, rag",12.3,-1.0,44.3,0.07,False,0.5744
+CAND_0079596,0.6507,0.2,"embeddings, langchain, llms, pinecone, rag",12.2,-1.0,30.8,0.12,False,0.5744
+CAND_0040014,0.6451,0.16,"embeddings, langchain, llms, rag",14.4,-1.0,42.3,0.22,False,0.5743
+CAND_0030437,0.6347,0.12,"faiss, pinecone, rag",11.2,15.8,33.0,0.59,False,0.5743
+CAND_0016943,0.6323,0.08,"langchain, llms",10.0,44.3,39.3,0.43,False,0.574
+CAND_0068145,0.6373,0.2,"faiss, langchain, llms, pinecone, rag",10.2,-1.0,28.5,0.36,False,0.5737
+CAND_0003117,0.6376,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",9.5,-1.0,35.3,0.37,False,0.5735
+CAND_0059015,0.647,0.12,"embeddings, faiss, langchain",10.2,12.9,33.0,0.39,False,0.5735
+CAND_0065016,0.6337,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",8.2,-1.0,73.8,0.65,False,0.5733
+CAND_0015425,0.6361,0.16,"embeddings, langchain, llms, rag",12.7,-1.0,30.9,0.52,False,0.5731
+CAND_0020806,0.6475,0.08,"embeddings, pinecone",14.1,-1.0,29.2,0.76,False,0.5731
+CAND_0018168,0.6324,0.0,,9.3,-1.0,72.5,0.48,True,0.5728
+CAND_0008995,0.6433,0.08,"faiss, pinecone",14.1,-1.0,63.0,0.25,False,0.5727
+CAND_0005014,0.6413,0.08,"faiss, rag",14.4,-1.0,40.3,0.66,False,0.5726
+CAND_0021213,0.6349,0.16,"embeddings, llms, pinecone, rag",14.7,-1.0,47.4,0.25,False,0.5726
+CAND_0070195,0.66,0.16,"embeddings, faiss, langchain, llms",8.3,-1.0,72.0,0.55,False,0.5725
+CAND_0077350,0.6387,0.16,"langchain, llms, pinecone, rag",9.5,-1.0,50.6,0.46,False,0.5724
+CAND_0047544,0.6319,0.2,"embeddings, faiss, langchain, pinecone, rag",11.0,28.2,28.6,0.11,False,0.572
+CAND_0095103,0.6332,0.08,"pinecone, rag",14.9,-1.0,39.4,0.12,True,0.5719
+CAND_0057552,0.6413,0.08,"embeddings, rag",13.0,-1.0,41.4,0.61,False,0.5717
+CAND_0033991,0.6495,0.2,"embeddings, faiss, langchain, llms, rag",7.5,-1.0,48.3,0.76,True,0.5717
+CAND_0005249,0.6329,0.2,"embeddings, faiss, langchain, llms, rag",13.8,-1.0,32.2,0.3,False,0.5715
+CAND_0040186,0.6415,0.2,"embeddings, langchain, llms, pinecone, rag",8.1,-1.0,80.3,0.62,False,0.5715
+CAND_0054159,0.6344,0.16,"embeddings, faiss, langchain, rag",11.0,-1.0,47.0,0.22,False,0.5713
+CAND_0095506,0.6323,0.08,"embeddings, faiss",13.1,-1.0,42.3,0.73,False,0.5712
+CAND_0081371,0.6395,0.12,"langchain, pinecone, rag",11.5,46.3,29.0,0.17,False,0.5712
+CAND_0056890,0.6378,0.08,"embeddings, faiss",12.5,-1.0,42.7,0.62,False,0.5708
+CAND_0092331,0.6424,0.12,"embeddings, faiss, langchain",8.9,2.1,61.6,0.74,False,0.5708
+CAND_0070987,0.6349,0.12,"embeddings, langchain, pinecone",13.8,-1.0,37.8,0.54,False,0.5706
+CAND_0086828,0.6589,0.12,"faiss, llms, pinecone",10.5,-1.0,34.4,0.19,False,0.5703
+CAND_0031594,0.6377,0.2,"embeddings, faiss, langchain, llms, rag",8.9,-1.0,73.2,0.22,False,0.57
+CAND_0067303,0.6336,0.08,"langchain, llms",14.8,-1.0,62.5,0.33,False,0.5699
+CAND_0093214,0.6355,0.04,llms,12.2,-1.0,57.0,0.58,False,0.5697
+CAND_0098389,0.6448,0.16,"faiss, langchain, pinecone, rag",10.5,4.5,37.9,0.09,False,0.5694
+CAND_0007096,0.6315,0.0,,13.8,-1.0,74.7,0.54,False,0.5693
+CAND_0066536,0.6318,0.16,"faiss, llms, pinecone, rag",9.0,-1.0,38.7,0.32,True,0.5689
+CAND_0049310,0.6456,0.08,"llms, rag",9.4,-1.0,61.7,0.51,False,0.5689
+CAND_0048812,0.6317,0.16,"embeddings, langchain, pinecone, rag",7.1,37.0,70.3,0.69,True,0.5688
+CAND_0009288,0.6384,0.16,"embeddings, langchain, pinecone, rag",8.7,43.7,57.5,0.32,False,0.5687
+CAND_0065473,0.6339,0.16,"embeddings, faiss, llms, rag",15.0,-1.0,32.0,0.38,False,0.5683
+CAND_0075563,0.6399,0.12,"langchain, llms, pinecone",14.7,-1.0,42.1,0.3,False,0.568
+CAND_0058489,0.6425,0.16,"faiss, langchain, llms, rag",11.3,-1.0,39.2,0.1,False,0.5679
+CAND_0092408,0.6512,0.08,"pinecone, rag",10.5,-1.0,26.1,0.56,False,0.5675
+CAND_0052937,0.6555,0.16,"embeddings, faiss, llms, rag",12.9,-1.0,26.0,0.09,False,0.5674
+CAND_0041694,0.6327,0.0,,13.9,-1.0,80.0,0.37,False,0.5674
+CAND_0039581,0.634,0.2,"embeddings, faiss, langchain, llms, pinecone",8.4,-1.0,58.2,0.1,True,0.5671
+CAND_0003962,0.6444,0.12,"faiss, llms, pinecone",13.0,-1.0,48.5,0.08,False,0.5668
+CAND_0063826,0.6385,0.12,"embeddings, pinecone, rag",8.1,-1.0,48.9,0.76,True,0.5665
+CAND_0077424,0.6382,0.2,"embeddings, faiss, langchain, llms, pinecone",13.9,-1.0,29.9,0.08,False,0.5664
+CAND_0012154,0.6348,0.12,"langchain, llms, rag",13.9,-1.0,57.3,0.06,False,0.5658
+CAND_0059337,0.6392,0.12,"llms, pinecone, rag",12.4,-1.0,34.1,0.37,False,0.5657
+CAND_0056130,0.6395,0.2,"embeddings, faiss, langchain, llms, pinecone",8.9,-1.0,29.0,0.11,True,0.5655
+CAND_0018300,0.634,0.2,"embeddings, faiss, llms, pinecone, rag",8.7,-1.0,61.0,0.44,False,0.5647
+CAND_0040805,0.6469,0.12,"embeddings, faiss, pinecone",10.7,-1.0,35.4,0.17,False,0.5642
+CAND_0068999,0.6369,0.2,"faiss, langchain, llms, pinecone, rag",8.1,-1.0,84.1,0.39,False,0.5642
+CAND_0052486,0.6366,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",8.8,4.7,34.6,0.5,False,0.564
+CAND_0079000,0.6523,0.12,"langchain, llms, rag",12.5,-1.0,32.7,0.11,False,0.5638
+CAND_0063768,0.6378,0.12,"faiss, pinecone, rag",8.4,-1.0,69.6,0.13,True,0.5636
+CAND_0003773,0.6373,0.12,"langchain, pinecone, rag",13.6,-1.0,44.7,0.15,False,0.5635
+CAND_0072692,0.655,0.16,"faiss, langchain, llms, rag",6.7,46.1,71.5,0.28,True,0.5635
+CAND_0004196,0.6432,0.16,"embeddings, langchain, pinecone, rag",7.2,-1.0,62.6,0.75,True,0.5634
+CAND_0072652,0.6413,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",7.1,-1.0,49.3,0.66,True,0.5631
+CAND_0034662,0.6379,0.16,"embeddings, faiss, langchain, rag",11.9,-1.0,29.9,0.17,False,0.563
+CAND_0095727,0.6362,0.2,"embeddings, faiss, langchain, pinecone, rag",8.7,-1.0,54.2,0.46,False,0.563
+CAND_0010414,0.6329,0.16,"embeddings, langchain, pinecone, rag",8.7,-1.0,43.6,0.22,True,0.5629
+CAND_0072678,0.6424,0.04,llms,9.6,-1.0,47.7,0.66,False,0.5629
+CAND_0007978,0.6353,0.12,"embeddings, pinecone, rag",7.6,48.7,46.8,0.57,True,0.5628
+CAND_0029728,0.6411,0.2,"embeddings, faiss, langchain, pinecone, rag",7.5,-1.0,83.8,0.68,False,0.5628
+CAND_0028459,0.6316,0.2,"embeddings, faiss, langchain, pinecone, rag",8.9,-1.0,70.4,0.11,False,0.5623
+CAND_0008892,0.6385,0.16,"embeddings, faiss, llms, rag",13.2,1.7,27.8,0.15,False,0.5622
+CAND_0033411,0.6365,0.16,"embeddings, faiss, langchain, pinecone",11.2,-1.0,27.1,0.21,False,0.5621
+CAND_0094783,0.6402,0.12,"embeddings, llms, pinecone",9.6,-1.0,58.6,0.09,False,0.5621
+CAND_0048445,0.6376,0.08,"langchain, rag",11.5,-1.0,36.5,0.43,False,0.562
+CAND_0079846,0.6334,0.12,"faiss, langchain, pinecone",9.7,-1.0,44.8,0.35,False,0.5616
+CAND_0029119,0.6602,0.2,"embeddings, faiss, langchain, pinecone, rag",7.4,-1.0,79.4,0.46,False,0.5616
+CAND_0015436,0.6324,0.04,embeddings,14.1,-1.0,59.5,0.32,False,0.5615
+CAND_0055002,0.6324,0.12,"llms, pinecone, rag",10.3,-1.0,36.4,0.3,False,0.5614
+CAND_0029751,0.6524,0.08,"pinecone, rag",7.0,-1.0,83.7,0.7,True,0.5611
+CAND_0035119,0.6487,0.2,"faiss, langchain, llms, pinecone, rag",6.6,-1.0,82.9,0.44,True,0.561
+CAND_0060856,0.6383,0.2,"embeddings, faiss, llms, pinecone, rag",9.1,-1.0,40.1,0.32,False,0.5608
+CAND_0060726,0.6592,0.2,"faiss, langchain, llms, pinecone, rag",6.8,-1.0,52.9,0.62,True,0.5607
+CAND_0091611,0.6432,0.12,"embeddings, langchain, rag",8.4,38.6,51.2,0.52,False,0.5604
+CAND_0022108,0.6337,0.16,"embeddings, langchain, llms, rag",8.6,41.7,27.0,0.72,False,0.5604
+CAND_0071300,0.6347,0.16,"embeddings, langchain, llms, pinecone",9.0,-1.0,57.7,0.33,False,0.5601
+CAND_0006264,0.6451,0.16,"faiss, langchain, llms, pinecone",8.4,-1.0,48.3,0.71,False,0.56
+CAND_0027855,0.6375,0.12,"embeddings, pinecone, rag",8.5,-1.0,62.0,0.05,True,0.5593
+CAND_0037426,0.6411,0.2,"embeddings, faiss, langchain, pinecone, rag",7.2,19.4,72.7,0.75,False,0.5592
+CAND_0030213,0.6321,0.2,"faiss, langchain, llms, pinecone, rag",7.9,-1.0,33.0,0.62,True,0.5591
+CAND_0090251,0.6389,0.12,"langchain, llms, pinecone",9.3,35.6,30.7,0.32,False,0.5591
+CAND_0056302,0.6373,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",7.8,22.7,45.5,0.63,False,0.5591
+CAND_0092070,0.6526,0.2,"embeddings, faiss, langchain, pinecone, rag",5.9,38.0,65.0,0.69,True,0.5589
+CAND_0033612,0.6425,0.08,"langchain, llms",9.4,-1.0,67.4,0.12,False,0.5585
+CAND_0027061,0.6384,0.16,"embeddings, faiss, langchain, rag",7.3,-1.0,59.5,0.65,True,0.5584
+CAND_0031677,0.6319,0.08,"faiss, rag",10.4,-1.0,26.2,0.58,False,0.5584
+CAND_0028080,0.6327,0.12,"faiss, langchain, llms",9.3,-1.0,67.7,0.14,False,0.5584
+CAND_0026621,0.6373,0.16,"embeddings, faiss, langchain, llms",8.2,-1.0,65.4,0.62,False,0.558
+CAND_0051469,0.6353,0.0,,8.8,23.6,80.9,0.56,False,0.558
+CAND_0029996,0.6336,0.2,"embeddings, langchain, llms, pinecone, rag",8.5,-1.0,35.5,0.78,False,0.558
+CAND_0029209,0.6464,0.16,"embeddings, llms, pinecone, rag",8.3,-1.0,69.1,0.34,False,0.5579
+CAND_0039958,0.6324,0.16,"faiss, llms, pinecone, rag",9.5,-1.0,48.4,0.11,False,0.5577
+CAND_0008963,0.6354,0.2,"embeddings, faiss, langchain, llms, pinecone",9.4,-1.0,35.9,0.12,False,0.5572
+CAND_0014084,0.6391,0.08,"embeddings, rag",9.1,-1.0,38.1,0.15,True,0.5571
+CAND_0043416,0.6576,0.2,"embeddings, faiss, langchain, llms, pinecone",7.5,-1.0,34.9,0.35,True,0.5567
+CAND_0026480,0.6392,0.2,"embeddings, faiss, llms, pinecone, rag",7.1,38.7,67.5,0.65,False,0.5564
+CAND_0095529,0.6362,0.16,"embeddings, langchain, pinecone, rag",8.6,49.0,45.9,0.15,False,0.5562
+CAND_0099255,0.6324,0.0,,13.6,-1.0,75.7,0.07,False,0.5561
+CAND_0096222,0.648,0.04,langchain,10.3,-1.0,25.7,0.44,False,0.5561
+CAND_0094614,0.6516,0.12,"embeddings, langchain, rag",7.8,-1.0,67.1,0.76,False,0.5561
+CAND_0070062,0.6329,0.2,"embeddings, faiss, langchain, pinecone, rag",7.6,34.9,64.5,0.49,False,0.5559
+CAND_0016317,0.6384,0.2,"embeddings, faiss, llms, pinecone, rag",6.5,31.8,49.2,0.75,True,0.5559
+CAND_0052141,0.6519,0.2,"embeddings, faiss, llms, pinecone, rag",7.1,-1.0,75.7,0.67,False,0.5559
+CAND_0035889,0.6324,0.16,"embeddings, faiss, llms, rag",8.7,-1.0,56.7,0.44,False,0.5558
+CAND_0046698,0.6354,0.2,"embeddings, faiss, langchain, pinecone, rag",7.0,28.5,44.3,0.58,True,0.5558
+CAND_0063737,0.6549,0.16,"embeddings, langchain, pinecone, rag",7.7,-1.0,35.5,0.41,True,0.5555
+CAND_0022801,0.6454,0.2,"embeddings, faiss, langchain, pinecone, rag",7.2,-1.0,78.7,0.65,False,0.5555
+CAND_0039597,0.6413,0.12,"embeddings, faiss, langchain",13.0,-1.0,29.6,0.06,False,0.5552
+CAND_0046862,0.633,0.0,,8.9,-1.0,36.2,0.75,True,0.5551
+CAND_0013732,0.6341,0.16,"faiss, langchain, pinecone, rag",8.4,27.4,35.8,0.66,False,0.555
+CAND_0006532,0.6333,0.0,,13.7,-1.0,26.0,0.18,True,0.555
+CAND_0058124,0.639,0.16,"embeddings, faiss, llms, rag",7.0,19.2,71.9,0.31,True,0.5545
+CAND_0029125,0.6325,0.0,,10.0,42.0,34.0,0.28,False,0.5543
+CAND_0020075,0.6365,0.08,"embeddings, llms",15.0,-1.0,26.9,0.33,False,0.5536
+CAND_0094963,0.6322,0.12,"embeddings, langchain, rag",13.6,-1.0,30.0,0.13,False,0.553
+CAND_0022906,0.6415,0.16,"faiss, langchain, pinecone, rag",7.6,7.8,78.3,0.48,False,0.5526
+CAND_0018392,0.6316,0.0,,8.8,-1.0,75.7,0.09,True,0.5523
+CAND_0081801,0.6345,0.12,"langchain, llms, pinecone",8.8,8.4,71.7,0.09,False,0.5523
+CAND_0032919,0.6439,0.12,"embeddings, faiss, langchain",7.0,-1.0,67.4,0.62,True,0.5522
+CAND_0055999,0.6387,0.12,"embeddings, langchain, pinecone",7.8,25.4,58.1,0.73,False,0.5519
+CAND_0036983,0.6336,0.12,"embeddings, langchain, pinecone",9.4,28.5,36.2,0.08,False,0.5519
+CAND_0063568,0.6316,0.12,"embeddings, llms, pinecone",8.5,-1.0,80.9,0.25,False,0.5517
+CAND_0008764,0.6485,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",8.3,-1.0,27.3,0.37,False,0.551
+CAND_0004001,0.653,0.08,"embeddings, llms",7.6,-1.0,59.1,0.36,True,0.5508
+CAND_0079322,0.6318,0.12,"embeddings, faiss, langchain",8.9,-1.0,35.4,0.7,False,0.5506
+CAND_0035423,0.6345,0.2,"embeddings, langchain, llms, pinecone, rag",7.9,-1.0,78.6,0.2,False,0.5505
+CAND_0057048,0.6344,0.0,,9.3,-1.0,82.9,0.18,False,0.55
+CAND_0031232,0.6441,0.08,"embeddings, faiss",8.3,-1.0,73.8,0.43,False,0.5498
+CAND_0090280,0.6335,0.2,"embeddings, langchain, llms, pinecone, rag",6.2,19.5,75.8,0.51,True,0.5498
+CAND_0028518,0.6416,0.2,"embeddings, faiss, llms, pinecone, rag",8.9,-1.0,38.8,0.05,False,0.5497
+CAND_0052305,0.6349,0.16,"embeddings, llms, pinecone, rag",7.9,-1.0,68.5,0.52,False,0.5493
+CAND_0045708,0.6366,0.16,"faiss, langchain, llms, pinecone",6.6,-1.0,77.5,0.54,True,0.5492
+CAND_0030498,0.6493,0.08,"llms, pinecone",7.5,29.4,62.0,0.74,False,0.5487
+CAND_0096466,0.6432,0.16,"langchain, llms, pinecone, rag",7.0,33.0,75.9,0.51,False,0.5487
+CAND_0022180,0.6334,0.0,,8.8,-1.0,52.2,0.33,True,0.5487
+CAND_0099661,0.6382,0.16,"langchain, llms, pinecone, rag",8.1,-1.0,68.7,0.31,False,0.5487
+CAND_0099054,0.6323,0.12,"embeddings, pinecone, rag",8.6,40.8,33.3,0.45,False,0.5485
+CAND_0028175,0.6358,0.16,"embeddings, faiss, llms, pinecone",8.5,-1.0,30.5,0.71,False,0.5484
+CAND_0023868,0.632,0.16,"faiss, llms, pinecone, rag",9.2,-1.0,28.1,0.32,False,0.5476
+CAND_0014625,0.6462,0.08,"embeddings, rag",7.3,-1.0,72.9,0.33,True,0.5475
+CAND_0052316,0.6459,0.16,"embeddings, llms, pinecone, rag",8.5,-1.0,41.9,0.32,False,0.5475
+CAND_0071139,0.6374,0.2,"embeddings, faiss, langchain, llms, pinecone",8.3,-1.0,29.6,0.59,False,0.5472
+CAND_0007564,0.6372,0.2,"embeddings, faiss, llms, pinecone, rag",7.8,-1.0,73.2,0.19,False,0.5469
+CAND_0033451,0.6388,0.2,"embeddings, faiss, langchain, llms, pinecone",6.1,38.9,83.4,0.05,True,0.5463
+CAND_0081383,0.632,0.16,"embeddings, langchain, llms, rag",7.8,-1.0,39.0,0.33,True,0.5454
+CAND_0056356,0.6524,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",6.2,27.0,52.3,0.16,True,0.5453
+CAND_0087083,0.6378,0.12,"faiss, langchain, pinecone",7.5,34.4,75.5,0.32,False,0.5446
+CAND_0088482,0.6378,0.12,"embeddings, faiss, rag",7.2,27.3,43.6,0.45,True,0.5444
+CAND_0021367,0.6318,0.2,"embeddings, faiss, langchain, llms, rag",7.7,-1.0,72.0,0.27,False,0.544
+CAND_0080204,0.6401,0.08,"pinecone, rag",7.2,-1.0,54.3,0.69,True,0.5439
+CAND_0042121,0.6332,0.12,"faiss, langchain, rag",8.2,29.9,45.4,0.44,False,0.5435
+CAND_0060162,0.6329,0.2,"embeddings, langchain, llms, pinecone, rag",7.7,22.1,50.9,0.35,False,0.543
+CAND_0075469,0.6335,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.4,-1.0,81.1,0.72,True,0.5429
+CAND_0003189,0.6612,0.16,"faiss, langchain, pinecone, rag",7.9,-1.0,51.6,0.13,False,0.5423
+CAND_0082963,0.6336,0.16,"embeddings, faiss, llms, rag",7.6,-1.0,66.8,0.5,False,0.5412
+CAND_0007509,0.6405,0.08,"embeddings, faiss",8.0,-1.0,56.8,0.67,False,0.5408
+CAND_0048271,0.6431,0.12,"faiss, pinecone, rag",7.8,-1.0,37.9,0.2,True,0.5405
+CAND_0076037,0.637,0.2,"embeddings, faiss, langchain, llms, pinecone",7.5,-1.0,58.2,0.42,False,0.5402
+CAND_0061292,0.6439,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",6.6,10.6,56.3,0.63,False,0.5402
+CAND_0006090,0.6484,0.16,"faiss, langchain, pinecone, rag",6.5,-1.0,62.3,0.35,True,0.5398
+CAND_0041370,0.6382,0.12,"faiss, llms, pinecone",9.1,-1.0,27.8,0.21,False,0.5393
+CAND_0031354,0.6591,0.2,"faiss, langchain, llms, pinecone, rag",5.5,29.8,76.8,0.74,False,0.5391
+CAND_0002623,0.6559,0.2,"embeddings, faiss, langchain, pinecone, rag",7.9,-1.0,35.4,0.18,False,0.5391
+CAND_0003625,0.6333,0.2,"faiss, langchain, llms, pinecone, rag",7.0,-1.0,62.0,0.71,False,0.5389
+CAND_0089491,0.633,0.16,"embeddings, faiss, langchain, rag",6.2,20.2,75.9,0.33,True,0.5384
+CAND_0022260,0.632,0.16,"langchain, llms, pinecone, rag",6.7,-1.0,60.1,0.46,True,0.5379
+CAND_0004733,0.6345,0.2,"embeddings, faiss, langchain, llms, rag",5.6,28.7,75.4,0.4,True,0.5376
+CAND_0018202,0.6455,0.2,"embeddings, faiss, llms, pinecone, rag",6.6,-1.0,53.7,0.2,True,0.5376
+CAND_0029530,0.6361,0.08,"pinecone, rag",6.6,26.2,82.6,0.21,True,0.5375
+CAND_0061686,0.6415,0.16,"faiss, langchain, llms, rag",7.7,-1.0,70.5,0.11,False,0.5373
+CAND_0085899,0.6364,0.16,"faiss, llms, pinecone, rag",8.8,-1.0,30.7,0.12,False,0.5372
+CAND_0073874,0.6367,0.16,"faiss, langchain, pinecone, rag",6.5,-1.0,56.2,0.54,True,0.5367
+CAND_0077937,0.6384,0.08,"langchain, rag",9.1,-1.0,36.4,0.17,False,0.5365
+CAND_0029676,0.6424,0.12,"faiss, llms, pinecone",7.4,-1.0,78.0,0.32,False,0.5358
+CAND_0094686,0.6333,0.2,"embeddings, faiss, langchain, pinecone, rag",6.7,-1.0,65.3,0.75,False,0.5358
+CAND_0090308,0.6354,0.12,"embeddings, langchain, pinecone",7.1,-1.0,66.6,0.15,True,0.5355
+CAND_0038483,0.6367,0.12,"embeddings, faiss, rag",7.9,-1.0,55.9,0.42,False,0.5349
+CAND_0085289,0.6337,0.2,"embeddings, faiss, llms, pinecone, rag",7.2,-1.0,62.3,0.43,False,0.5349
+CAND_0078121,0.6492,0.16,"embeddings, llms, pinecone, rag",7.5,-1.0,68.2,0.07,False,0.5348
+CAND_0015823,0.636,0.16,"faiss, llms, pinecone, rag",6.6,-1.0,37.4,0.7,True,0.5337
+CAND_0015568,0.6499,0.12,"faiss, llms, rag",6.4,-1.0,72.1,0.22,True,0.5336
+CAND_0023359,0.6344,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",7.5,1.6,49.3,0.17,False,0.5334
+CAND_0051793,0.6411,0.2,"embeddings, langchain, llms, pinecone, rag",6.4,3.5,74.4,0.54,False,0.533
+CAND_0028932,0.6506,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.2,30.2,81.4,0.59,False,0.5327
+CAND_0071760,0.6336,0.16,"embeddings, faiss, llms, rag",6.7,31.8,55.8,0.67,False,0.5324
+CAND_0017185,0.6388,0.12,"embeddings, pinecone, rag",7.7,-1.0,54.8,0.44,False,0.532
+CAND_0079407,0.6369,0.12,"embeddings, faiss, langchain",7.5,4.0,44.2,0.72,False,0.5313
+CAND_0080157,0.6341,0.2,"embeddings, faiss, llms, pinecone, rag",6.1,5.8,64.6,0.27,True,0.5312
+CAND_0054864,0.6421,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.9,20.0,67.1,0.55,False,0.5311
+CAND_0084584,0.6396,0.2,"embeddings, faiss, langchain, llms, rag",6.4,44.2,72.9,0.12,False,0.5311
+CAND_0010911,0.6321,0.2,"embeddings, faiss, langchain, llms, rag",7.5,8.8,48.4,0.25,False,0.5304
+CAND_0025804,0.6343,0.2,"embeddings, faiss, langchain, llms, rag",7.7,-1.0,35.1,0.37,False,0.5298
+CAND_0085263,0.6424,0.2,"embeddings, faiss, langchain, pinecone, rag",6.0,-1.0,56.7,0.33,True,0.5295
+CAND_0021974,0.6444,0.2,"embeddings, langchain, llms, pinecone, rag",6.3,-1.0,77.4,0.41,False,0.5292
+CAND_0037006,0.6319,0.16,"embeddings, faiss, langchain, rag",6.5,-1.0,48.8,0.48,True,0.5287
+CAND_0052875,0.6358,0.08,"embeddings, langchain",8.2,16.3,51.3,0.12,False,0.528
+CAND_0052433,0.6355,0.16,"faiss, llms, pinecone, rag",6.6,-1.0,68.3,0.67,False,0.528
+CAND_0034369,0.6409,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",6.4,-1.0,55.6,0.52,False,0.5279
+CAND_0081253,0.6329,0.16,"embeddings, langchain, llms, rag",6.5,-1.0,72.8,0.69,False,0.5275
+CAND_0088699,0.6368,0.16,"langchain, llms, pinecone, rag",6.9,-1.0,76.0,0.3,False,0.5274
+CAND_0094670,0.6317,0.12,"faiss, langchain, rag",7.7,26.8,27.8,0.58,False,0.5272
+CAND_0083004,0.6557,0.16,"embeddings, faiss, pinecone, rag",6.4,-1.0,29.5,0.42,True,0.5272
+CAND_0083384,0.6473,0.2,"embeddings, faiss, langchain, llms, rag",6.5,-1.0,78.1,0.14,False,0.5269
+CAND_0040650,0.6409,0.08,"faiss, langchain",7.5,-1.0,48.3,0.66,False,0.5264
+CAND_0053579,0.6406,0.2,"embeddings, faiss, langchain, llms, rag",6.4,-1.0,49.6,0.77,False,0.5262
+CAND_0024216,0.6421,0.2,"embeddings, faiss, langchain, llms, rag",7.1,-1.0,55.6,0.18,False,0.5262
+CAND_0065769,0.633,0.12,"embeddings, langchain, pinecone",6.0,42.1,47.0,0.52,True,0.5262
+CAND_0009116,0.6401,0.12,"faiss, langchain, rag",6.6,8.1,69.7,0.61,False,0.5256
+CAND_0058144,0.6484,0.16,"embeddings, faiss, langchain, rag",7.0,-1.0,26.5,0.12,True,0.525
+CAND_0030364,0.6428,0.16,"embeddings, faiss, langchain, llms",6.3,17.2,56.2,0.68,False,0.525
+CAND_0073871,0.6396,0.16,"embeddings, faiss, langchain, pinecone",5.5,-1.0,60.9,0.68,True,0.5246
+CAND_0098621,0.6489,0.16,"embeddings, faiss, langchain, pinecone",5.7,-1.0,83.9,0.67,False,0.5245
+CAND_0029295,0.6348,0.2,"embeddings, faiss, llms, pinecone, rag",6.1,35.1,65.4,0.39,False,0.5243
+CAND_0036476,0.6366,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",6.6,6.4,40.9,0.52,False,0.5243
+CAND_0003395,0.6316,0.16,"embeddings, llms, pinecone, rag",5.7,-1.0,66.9,0.56,True,0.524
+CAND_0088640,0.6356,0.16,"embeddings, faiss, langchain, llms",6.4,-1.0,83.6,0.41,False,0.5239
+CAND_0013982,0.6386,0.08,"faiss, pinecone",6.9,48.0,48.6,0.52,False,0.5236
+CAND_0054141,0.6419,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",7.1,-1.0,41.1,0.13,False,0.5234
+CAND_0042018,0.6322,0.2,"embeddings, faiss, langchain, pinecone, rag",6.4,-1.0,68.1,0.48,False,0.5225
+CAND_0088960,0.6404,0.16,"faiss, langchain, llms, pinecone",5.9,18.8,83.3,0.43,False,0.5224
+CAND_0069936,0.6338,0.16,"faiss, langchain, pinecone, rag",7.1,-1.0,26.4,0.21,True,0.5224
+CAND_0053908,0.6341,0.2,"embeddings, faiss, langchain, llms, rag",6.8,-1.0,69.0,0.16,False,0.5223
+CAND_0078471,0.6485,0.16,"faiss, langchain, llms, rag",6.2,-1.0,51.6,0.14,True,0.5223
+CAND_0005155,0.6338,0.12,"faiss, llms, pinecone",5.7,-1.0,66.9,0.65,True,0.5218
+CAND_0078489,0.6412,0.2,"embeddings, faiss, llms, pinecone, rag",5.6,21.9,25.3,0.66,True,0.5216
+CAND_0017518,0.6342,0.2,"embeddings, faiss, langchain, pinecone, rag",6.7,-1.0,56.5,0.39,False,0.5211
+CAND_0093357,0.6408,0.16,"embeddings, langchain, llms, rag",6.6,-1.0,64.5,0.41,False,0.5209
+CAND_0047998,0.6326,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",6.0,35.5,58.2,0.27,False,0.5201
+CAND_0029349,0.6351,0.08,"faiss, pinecone",7.8,-1.0,29.6,0.66,False,0.5201
+CAND_0084878,0.6364,0.2,"embeddings, faiss, langchain, pinecone, rag",6.4,-1.0,41.7,0.77,False,0.5201
+CAND_0005610,0.6383,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.3,-1.0,70.2,0.12,True,0.5198
+CAND_0095579,0.6322,0.16,"faiss, langchain, llms, pinecone",6.4,-1.0,61.6,0.69,False,0.5196
+CAND_0077776,0.6523,0.2,"embeddings, faiss, langchain, pinecone, rag",5.3,31.7,57.8,0.63,False,0.5194
+CAND_0021472,0.6526,0.16,"embeddings, faiss, langchain, llms",5.9,38.3,38.7,0.67,False,0.5193
+CAND_0089225,0.6426,0.2,"embeddings, faiss, llms, pinecone, rag",4.4,-1.0,83.6,0.6,True,0.5191
+CAND_0080405,0.6342,0.08,"langchain, pinecone",6.6,-1.0,53.0,0.38,True,0.519
+CAND_0059678,0.6458,0.12,"embeddings, llms, pinecone",5.5,-1.0,69.9,0.43,True,0.5187
+CAND_0039003,0.6569,0.2,"embeddings, faiss, langchain, pinecone, rag",6.8,-1.0,26.3,0.37,False,0.5187
+CAND_0010332,0.6368,0.2,"embeddings, faiss, llms, pinecone, rag",6.3,-1.0,59.3,0.48,False,0.5185
+CAND_0038382,0.6349,0.2,"embeddings, faiss, langchain, llms, pinecone",7.0,-1.0,42.9,0.32,False,0.5185
+CAND_0017448,0.6346,0.16,"embeddings, langchain, llms, rag",6.8,34.3,25.9,0.59,False,0.5183
+CAND_0074425,0.6453,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.5,23.4,29.4,0.26,True,0.5182
+CAND_0091756,0.6324,0.2,"embeddings, langchain, llms, pinecone, rag",7.3,-1.0,31.8,0.33,False,0.518
+CAND_0018882,0.6325,0.16,"embeddings, faiss, langchain, rag",5.9,-1.0,83.0,0.61,False,0.518
+CAND_0072557,0.6422,0.12,"faiss, langchain, rag",7.5,-1.0,42.5,0.25,False,0.5179
+CAND_0037933,0.6378,0.16,"embeddings, faiss, llms, rag",5.6,32.0,67.6,0.65,False,0.5178
+CAND_0045335,0.6377,0.08,"pinecone, rag",7.3,18.6,31.7,0.64,False,0.5175
+CAND_0034222,0.6429,0.2,"embeddings, faiss, langchain, llms, rag",6.8,29.5,35.0,0.12,False,0.5174
+CAND_0050779,0.6345,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",6.1,-1.0,46.5,0.62,False,0.5171
+CAND_0091727,0.6459,0.2,"embeddings, faiss, langchain, llms, rag",6.6,-1.0,34.0,0.5,False,0.5169
+CAND_0058521,0.642,0.2,"embeddings, faiss, langchain, pinecone, rag",6.2,8.1,69.0,0.16,False,0.5168
+CAND_0054515,0.6436,0.16,"embeddings, faiss, pinecone, rag",6.4,-1.0,56.5,0.49,False,0.5168
+CAND_0081163,0.6397,0.2,"embeddings, langchain, llms, pinecone, rag",5.8,-1.0,71.0,0.51,False,0.5166
+CAND_0031266,0.6405,0.12,"llms, pinecone, rag",6.3,-1.0,73.7,0.51,False,0.5164
+CAND_0023316,0.6441,0.0,,7.0,-1.0,68.5,0.66,False,0.5161
+CAND_0000967,0.6467,0.16,"faiss, langchain, llms, rag",5.1,-1.0,58.8,0.58,True,0.5161
+CAND_0066005,0.633,0.12,"faiss, llms, pinecone",7.1,-1.0,46.0,0.53,False,0.5154
+CAND_0089098,0.6355,0.2,"embeddings, langchain, llms, pinecone, rag",6.1,-1.0,47.5,0.06,True,0.5153
+CAND_0098356,0.6397,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.8,17.4,37.5,0.65,False,0.5153
+CAND_0083405,0.6542,0.16,"embeddings, faiss, langchain, pinecone",5.8,-1.0,60.8,0.58,False,0.5149
+CAND_0011441,0.6382,0.08,"langchain, llms",7.6,23.2,31.9,0.28,False,0.5144
+CAND_0082476,0.6515,0.2,"faiss, langchain, llms, pinecone, rag",5.9,-1.0,44.2,0.61,False,0.5142
+CAND_0022989,0.6423,0.2,"embeddings, faiss, langchain, pinecone, rag",6.2,-1.0,50.9,0.45,False,0.5141
+CAND_0022042,0.6332,0.08,"faiss, llms",8.3,-1.0,33.1,0.09,False,0.5139
+CAND_0098723,0.6469,0.16,"embeddings, faiss, llms, rag",5.5,8.4,76.6,0.51,False,0.5136
+CAND_0065387,0.64,0.16,"langchain, llms, pinecone, rag",6.2,-1.0,49.6,0.69,False,0.5135
+CAND_0036114,0.6371,0.12,"embeddings, langchain, rag",7.9,-1.0,27.9,0.16,False,0.5133
+CAND_0020231,0.641,0.2,"embeddings, faiss, langchain, pinecone, rag",5.9,-1.0,83.0,0.11,False,0.5133
+CAND_0029474,0.6344,0.2,"embeddings, faiss, llms, pinecone, rag",5.3,-1.0,63.0,0.22,True,0.5113
+CAND_0022431,0.6399,0.16,"embeddings, faiss, llms, pinecone",5.4,-1.0,82.2,0.6,False,0.511
+CAND_0071881,0.6523,0.2,"embeddings, faiss, llms, pinecone, rag",6.7,-1.0,30.9,0.16,False,0.5104
+CAND_0010207,0.6427,0.16,"embeddings, langchain, llms, rag",5.9,-1.0,51.1,0.71,False,0.5102
+CAND_0071884,0.635,0.2,"embeddings, langchain, llms, pinecone, rag",4.2,-1.0,74.3,0.71,True,0.51
+CAND_0054400,0.6446,0.16,"faiss, llms, pinecone, rag",6.1,-1.0,58.0,0.42,False,0.5099
+CAND_0035477,0.6318,0.16,"embeddings, langchain, pinecone, rag",5.9,31.0,43.5,0.7,False,0.5099
+CAND_0022484,0.638,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",4.1,-1.0,71.1,0.56,True,0.5094
+CAND_0091943,0.6422,0.2,"embeddings, faiss, langchain, llms, pinecone",6.0,-1.0,63.2,0.22,False,0.5093
+CAND_0035214,0.653,0.2,"embeddings, faiss, llms, pinecone, rag",5.3,-1.0,70.5,0.38,False,0.5091
+CAND_0010817,0.6354,0.2,"faiss, langchain, llms, pinecone, rag",4.7,42.8,70.7,0.64,False,0.5091
+CAND_0030845,0.6341,0.16,"faiss, langchain, llms, rag",6.1,-1.0,69.1,0.37,False,0.5087
+CAND_0024407,0.6352,0.2,"embeddings, langchain, llms, pinecone, rag",5.3,-1.0,31.9,0.64,True,0.5087
+CAND_0002631,0.6573,0.2,"embeddings, faiss, langchain, pinecone, rag",5.6,-1.0,46.1,0.49,False,0.5084
+CAND_0021903,0.6491,0.16,"langchain, llms, pinecone, rag",4.2,42.3,67.7,0.31,True,0.5084
+CAND_0055518,0.6503,0.12,"embeddings, langchain, llms",6.2,-1.0,43.8,0.62,False,0.5076
+CAND_0086254,0.6321,0.16,"faiss, llms, pinecone, rag",5.6,10.3,75.4,0.48,False,0.5072
+CAND_0096310,0.638,0.12,"faiss, llms, pinecone",5.7,-1.0,69.2,0.72,False,0.5072
+CAND_0033562,0.6361,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",4.6,-1.0,77.5,0.74,False,0.507
+CAND_0050476,0.6374,0.12,"faiss, pinecone, rag",5.3,33.1,47.0,0.36,True,0.5069
+CAND_0093767,0.6472,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.9,-1.0,42.6,0.25,False,0.5064
+CAND_0053470,0.6449,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",4.6,-1.0,63.6,0.14,True,0.5064
+CAND_0088952,0.6377,0.16,"embeddings, langchain, pinecone, rag",6.7,-1.0,28.5,0.49,False,0.5058
+CAND_0092551,0.656,0.16,"embeddings, faiss, llms, pinecone",6.4,-1.0,35.4,0.26,False,0.5055
+CAND_0029338,0.6363,0.0,,6.9,-1.0,59.9,0.64,False,0.5053
+CAND_0008034,0.6384,0.16,"embeddings, llms, pinecone, rag",4.6,-1.0,84.8,0.25,True,0.5051
+CAND_0036303,0.6383,0.16,"faiss, langchain, llms, rag",5.1,7.2,70.2,0.08,True,0.5048
+CAND_0050556,0.6425,0.12,"embeddings, langchain, llms",6.4,-1.0,45.1,0.5,False,0.5048
+CAND_0088371,0.6421,0.08,"embeddings, faiss",6.0,-1.0,25.6,0.63,True,0.5047
+CAND_0052016,0.6421,0.2,"faiss, langchain, llms, pinecone, rag",5.9,-1.0,28.5,0.71,False,0.5046
+CAND_0096126,0.6336,0.16,"embeddings, faiss, langchain, pinecone",4.5,9.6,56.4,0.75,True,0.5044
+CAND_0034020,0.6494,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",3.6,-1.0,63.5,0.64,True,0.5036
+CAND_0071383,0.6391,0.2,"embeddings, faiss, langchain, llms, pinecone",5.6,-1.0,62.9,0.35,False,0.5035
+CAND_0011787,0.6351,0.12,"embeddings, faiss, pinecone",5.6,-1.0,79.5,0.54,False,0.5035
+CAND_0001776,0.6322,0.16,"embeddings, faiss, langchain, llms",5.1,-1.0,84.4,0.63,False,0.5032
+CAND_0030104,0.6417,0.0,,6.9,-1.0,74.0,0.23,False,0.5027
+CAND_0084844,0.6442,0.12,"llms, pinecone, rag",6.4,-1.0,57.9,0.17,False,0.5022
+CAND_0002662,0.6331,0.16,"faiss, langchain, llms, pinecone",5.4,13.0,61.0,0.64,False,0.5021
+CAND_0097210,0.6408,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",4.3,-1.0,76.5,0.7,False,0.5016
+CAND_0082520,0.6326,0.12,"embeddings, faiss, pinecone",6.4,-1.0,54.7,0.39,False,0.5013
+CAND_0078233,0.6361,0.16,"faiss, langchain, llms, pinecone",6.6,-1.0,45.7,0.13,False,0.5008
+CAND_0078140,0.6329,0.2,"embeddings, faiss, langchain, llms, rag",4.5,-1.0,82.0,0.11,True,0.5008
+CAND_0097936,0.6391,0.16,"langchain, llms, pinecone, rag",4.3,4.6,58.6,0.68,True,0.5006
+CAND_0014067,0.6376,0.04,llms,6.7,22.8,42.3,0.46,False,0.5006
+CAND_0071908,0.6535,0.2,"embeddings, faiss, langchain, pinecone, rag",6.0,-1.0,33.6,0.23,False,0.5005
+CAND_0008795,0.6452,0.2,"embeddings, langchain, llms, pinecone, rag",4.6,-1.0,57.0,0.24,True,0.5003
+CAND_0056230,0.642,0.08,"faiss, pinecone",5.2,-1.0,74.1,0.2,True,0.5001
+CAND_0091836,0.6369,0.12,"faiss, langchain, rag",6.1,-1.0,42.2,0.68,False,0.5
+CAND_0043224,0.6336,0.16,"embeddings, langchain, llms, pinecone",5.4,41.4,67.8,0.16,False,0.4999
+CAND_0056355,0.6353,0.12,"langchain, llms, rag",6.5,-1.0,45.1,0.39,False,0.4999
+CAND_0053392,0.6449,0.12,"embeddings, faiss, rag",5.0,40.5,41.6,0.2,True,0.4994
+CAND_0069441,0.6437,0.16,"faiss, llms, pinecone, rag",6.3,-1.0,42.6,0.2,False,0.4991
+CAND_0016695,0.6424,0.12,"langchain, llms, rag",5.5,-1.0,66.1,0.55,False,0.4987
+CAND_0010180,0.6328,0.0,,7.6,-1.0,48.1,0.2,False,0.4985
+CAND_0076729,0.6422,0.12,"langchain, llms, rag",5.3,-1.0,67.9,0.64,False,0.4983
+CAND_0051796,0.6343,0.12,"langchain, llms, rag",6.4,-1.0,36.9,0.55,False,0.4981
+CAND_0030821,0.6385,0.12,"embeddings, faiss, rag",5.9,36.0,42.4,0.36,False,0.498
+CAND_0025489,0.6329,0.0,,6.6,-1.0,80.9,0.3,False,0.4979
+CAND_0053436,0.6394,0.16,"embeddings, faiss, pinecone, rag",5.8,-1.0,48.6,0.45,False,0.4975
+CAND_0077351,0.6326,0.12,"embeddings, faiss, langchain",5.8,35.4,57.1,0.26,False,0.4972
+CAND_0026633,0.6331,0.16,"embeddings, faiss, llms, rag",6.1,-1.0,44.5,0.41,False,0.4971
+CAND_0035297,0.635,0.16,"embeddings, langchain, llms, rag",6.1,-1.0,41.7,0.42,False,0.497
+CAND_0062958,0.638,0.16,"faiss, llms, pinecone, rag",4.2,-1.0,75.8,0.4,True,0.4969
+CAND_0002140,0.6381,0.12,"faiss, pinecone, rag",5.8,-1.0,41.7,0.09,True,0.4966
+CAND_0032471,0.6405,0.2,"embeddings, faiss, langchain, llms, rag",6.3,5.9,26.8,0.17,False,0.4965
+CAND_0013264,0.6509,0.08,"embeddings, faiss",3.9,-1.0,76.6,0.75,True,0.4962
+CAND_0014819,0.6339,0.08,"langchain, rag",6.0,36.8,62.9,0.16,False,0.4962
+CAND_0078384,0.6374,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.4,-1.0,39.5,0.45,False,0.4959
+CAND_0019803,0.6349,0.16,"langchain, llms, pinecone, rag",5.2,-1.0,83.4,0.29,False,0.4958
+CAND_0068102,0.6459,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",2.8,49.9,79.3,0.2,True,0.4956
+CAND_0042258,0.6348,0.08,"llms, pinecone",5.6,46.2,69.7,0.17,False,0.4952
+CAND_0052956,0.6417,0.0,,6.0,-1.0,70.7,0.63,False,0.4951
+CAND_0096537,0.6403,0.16,"embeddings, langchain, llms, pinecone",4.0,-1.0,67.3,0.57,True,0.4949
+CAND_0046300,0.6442,0.2,"embeddings, faiss, langchain, llms, rag",5.3,-1.0,49.1,0.4,False,0.4947
+CAND_0061887,0.6431,0.2,"embeddings, faiss, langchain, pinecone, rag",5.0,-1.0,78.6,0.13,False,0.4947
+CAND_0092033,0.6495,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.2,-1.0,45.7,0.23,False,0.4945
+CAND_0019910,0.6341,0.16,"embeddings, langchain, llms, rag",5.0,-1.0,81.2,0.42,False,0.4943
+CAND_0017362,0.6391,0.16,"embeddings, llms, pinecone, rag",5.1,11.8,33.5,0.27,True,0.494
+CAND_0059182,0.6392,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.1,-1.0,60.8,0.19,False,0.4937
+CAND_0068896,0.6344,0.2,"embeddings, faiss, langchain, llms, rag",5.3,-1.0,37.0,0.06,True,0.4935
+CAND_0047470,0.6316,0.2,"embeddings, langchain, llms, pinecone, rag",4.6,-1.0,26.5,0.74,True,0.4932
+CAND_0078237,0.6377,0.2,"embeddings, faiss, langchain, llms, rag",4.8,-1.0,65.9,0.51,False,0.4931
+CAND_0000388,0.6362,0.2,"embeddings, faiss, langchain, llms, rag",6.0,-1.0,43.3,0.11,False,0.493
+CAND_0021446,0.6323,0.16,"embeddings, langchain, llms, rag",6.3,3.9,41.7,0.16,False,0.493
+CAND_0054412,0.6319,0.0,,6.2,47.6,39.5,0.63,False,0.4929
+CAND_0084718,0.6668,0.2,"embeddings, faiss, langchain, pinecone, rag",4.9,-1.0,56.5,0.1,False,0.4926
+CAND_0005922,0.6325,0.16,"embeddings, llms, pinecone, rag",5.3,11.2,64.0,0.36,False,0.4924
+CAND_0065416,0.6347,0.16,"faiss, langchain, pinecone, rag",5.2,-1.0,83.8,0.17,False,0.4924
+CAND_0022695,0.6328,0.16,"faiss, langchain, pinecone, rag",4.6,46.7,50.1,0.69,False,0.4922
+CAND_0047182,0.6322,0.0,,6.6,-1.0,67.7,0.33,False,0.4918
+CAND_0055824,0.6318,0.2,"faiss, langchain, llms, pinecone, rag",5.1,-1.0,69.8,0.3,False,0.4918
+CAND_0019753,0.6353,0.2,"embeddings, faiss, llms, pinecone, rag",4.9,23.3,58.1,0.33,False,0.4916
+CAND_0036492,0.654,0.16,"embeddings, langchain, llms, pinecone",5.4,-1.0,44.6,0.31,False,0.4906
+CAND_0012779,0.6317,0.2,"embeddings, faiss, langchain, pinecone, rag",4.6,-1.0,38.9,0.44,True,0.4905
+CAND_0035113,0.6432,0.16,"embeddings, llms, pinecone, rag",4.6,9.3,59.8,0.67,False,0.4904
+CAND_0005060,0.6421,0.12,"embeddings, faiss, llms",4.3,9.9,76.0,0.13,True,0.4899
+CAND_0092362,0.6372,0.04,faiss,4.6,-1.0,65.0,0.69,True,0.4898
+CAND_0063899,0.6485,0.16,"faiss, langchain, llms, rag",4.8,-1.0,72.3,0.31,False,0.4897
+CAND_0007309,0.6399,0.08,"langchain, llms",6.6,-1.0,43.9,0.12,False,0.4895
+CAND_0071927,0.6409,0.12,"faiss, llms, pinecone",4.7,45.1,53.9,0.55,False,0.4894
+CAND_0018851,0.632,0.2,"embeddings, faiss, langchain, pinecone, rag",5.3,46.2,32.0,0.24,False,0.4891
+CAND_0036548,0.655,0.2,"embeddings, faiss, langchain, pinecone, rag",3.7,-1.0,74.3,0.68,False,0.4891
+CAND_0048076,0.6345,0.0,,5.3,28.5,69.7,0.75,False,0.4891
+CAND_0098806,0.633,0.04,elasticsearch,5.9,17.4,43.1,0.72,False,0.4889
+CAND_0082682,0.6411,0.08,"embeddings, pinecone",5.8,-1.0,38.1,0.7,False,0.4886
+CAND_0072929,0.6337,0.16,"embeddings, faiss, langchain, rag",5.4,16.9,50.6,0.31,False,0.4885
+CAND_0084627,0.6425,0.12,"embeddings, faiss, rag",6.4,-1.0,32.2,0.16,False,0.4882
+CAND_0039329,0.632,0.2,"embeddings, faiss, llms, pinecone, rag",2.9,23.2,78.7,0.57,True,0.4874
+CAND_0090597,0.6316,0.2,"embeddings, langchain, llms, pinecone, rag",5.2,13.4,39.9,0.45,False,0.4873
+CAND_0050652,0.6318,0.2,"faiss, langchain, llms, pinecone, rag",4.8,-1.0,53.0,0.62,False,0.487
+CAND_0018421,0.6368,0.08,"embeddings, rag",5.4,-1.0,52.8,0.74,False,0.487
+CAND_0005405,0.6376,0.12,"embeddings, langchain, llms",5.7,-1.0,50.2,0.37,False,0.487
+CAND_0075252,0.6476,0.12,"langchain, llms, pinecone",4.6,39.6,49.9,0.54,False,0.4868
+CAND_0094943,0.6366,0.2,"embeddings, faiss, langchain, llms, pinecone",5.2,-1.0,27.8,0.68,False,0.4866
+CAND_0086548,0.6415,0.16,"embeddings, langchain, llms, rag",5.5,-1.0,47.5,0.25,False,0.486
+CAND_0013090,0.6441,0.2,"embeddings, faiss, langchain, llms, rag",3.4,41.0,45.8,0.36,True,0.486
+CAND_0043709,0.6329,0.12,"langchain, llms, pinecone",5.0,-1.0,74.3,0.44,False,0.4848
+CAND_0057980,0.6326,0.0,,6.7,-1.0,34.6,0.57,False,0.4847
+CAND_0020623,0.641,0.2,"embeddings, faiss, llms, pinecone, rag",2.5,41.8,65.3,0.63,True,0.4846
+CAND_0003067,0.6469,0.12,"embeddings, langchain, llms",3.9,-1.0,53.6,0.61,True,0.4845
+CAND_0059324,0.6511,0.16,"embeddings, faiss, langchain, rag",4.8,-1.0,41.2,0.59,False,0.4839
+CAND_0053459,0.6431,0.16,"embeddings, faiss, langchain, rag",4.1,29.5,60.0,0.58,False,0.4838
+CAND_0030386,0.6488,0.08,"llms, rag",4.5,-1.0,29.7,0.75,True,0.4837
+CAND_0052518,0.6408,0.12,"embeddings, llms, rag",4.5,-1.0,79.2,0.51,False,0.4833
+CAND_0075217,0.6444,0.16,"embeddings, langchain, llms, rag",4.7,-1.0,45.0,0.68,False,0.4831
+CAND_0036715,0.6489,0.2,"embeddings, faiss, langchain, llms, rag",3.6,-1.0,70.5,0.71,False,0.483
+CAND_0013950,0.6442,0.16,"embeddings, faiss, langchain, pinecone",4.4,-1.0,31.0,0.44,True,0.4828
+CAND_0039550,0.6556,0.2,"embeddings, faiss, langchain, llms, rag",3.1,13.9,49.4,0.46,True,0.4825
+CAND_0081094,0.637,0.12,"faiss, llms, pinecone",4.6,-1.0,65.4,0.7,False,0.4822
+CAND_0087112,0.6381,0.2,"embeddings, faiss, langchain, pinecone, rag",3.8,-1.0,73.6,0.67,False,0.482
+CAND_0023970,0.6362,0.16,"embeddings, faiss, llms, rag",4.2,16.9,44.2,0.29,True,0.482
+CAND_0046705,0.6409,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",5.3,-1.0,34.6,0.07,False,0.4818
+CAND_0021082,0.6487,0.16,"embeddings, faiss, pinecone, rag",5.0,-1.0,52.5,0.24,False,0.4818
+CAND_0064269,0.6417,0.2,"embeddings, langchain, llms, pinecone, rag",3.1,33.2,56.5,0.36,True,0.4818
+CAND_0016289,0.6499,0.12,"embeddings, faiss, langchain",3.6,-1.0,67.2,0.44,True,0.4817
+CAND_0052743,0.6364,0.2,"embeddings, langchain, llms, pinecone, rag",4.7,-1.0,32.7,0.76,False,0.4814
+CAND_0006394,0.649,0.16,"embeddings, faiss, pinecone, rag",4.5,-1.0,70.8,0.25,False,0.4814
+CAND_0089312,0.6336,0.0,,6.6,-1.0,25.0,0.66,False,0.4811
+CAND_0005458,0.6356,0.12,"langchain, pinecone, rag",4.5,-1.0,31.5,0.61,True,0.4799
+CAND_0097252,0.6318,0.2,"embeddings, faiss, llms, pinecone, rag",4.3,-1.0,60.3,0.59,False,0.4797
+CAND_0068023,0.6421,0.16,"faiss, langchain, pinecone, rag",4.6,-1.0,58.7,0.43,False,0.4793
+CAND_0080661,0.6384,0.2,"embeddings, faiss, llms, pinecone, rag",2.7,46.4,68.6,0.26,True,0.4792
+CAND_0052462,0.6345,0.2,"embeddings, faiss, langchain, pinecone, rag",3.6,49.6,71.0,0.32,False,0.4792
+CAND_0048247,0.6376,0.16,"faiss, llms, pinecone, rag",5.7,-1.0,25.7,0.31,False,0.4789
+CAND_0018918,0.6399,0.16,"faiss, langchain, llms, rag",5.1,-1.0,58.1,0.11,False,0.4783
+CAND_0046975,0.6484,0.12,"embeddings, langchain, llms",3.6,-1.0,77.8,0.17,True,0.4782
+CAND_0015726,0.6323,0.12,"embeddings, langchain, llms",4.1,-1.0,38.9,0.75,True,0.4781
+CAND_0025112,0.6401,0.2,"embeddings, faiss, langchain, pinecone, rag",4.0,-1.0,35.4,0.32,True,0.4774
+CAND_0008111,0.6383,0.0,,6.6,-1.0,30.2,0.36,False,0.4771
+CAND_0036819,0.643,0.2,"embeddings, faiss, langchain, pinecone, rag",4.8,-1.0,54.3,0.06,False,0.4765
+CAND_0081472,0.6569,0.2,"embeddings, faiss, llms, pinecone, rag",2.2,17.6,52.5,0.75,True,0.4765
+CAND_0081145,0.6332,0.12,"langchain, llms, pinecone",5.7,-1.0,31.3,0.41,False,0.4765
+CAND_0034412,0.6426,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",3.5,-1.0,61.4,0.61,False,0.4763
+CAND_0082158,0.6663,0.2,"faiss, langchain, llms, pinecone, rag",1.9,-1.0,81.9,0.47,True,0.4762
+CAND_0042346,0.632,0.0,,5.2,-1.0,84.6,0.46,False,0.4761
+CAND_0036568,0.639,0.12,"embeddings, faiss, rag",4.7,-1.0,61.6,0.46,False,0.4761
+CAND_0056887,0.6401,0.12,"faiss, pinecone, rag",4.7,-1.0,80.5,0.12,False,0.4759
+CAND_0021708,0.6492,0.12,"embeddings, llms, rag",4.7,38.2,39.0,0.27,False,0.4757
+CAND_0062533,0.6319,0.12,"embeddings, faiss, rag",4.9,-1.0,44.7,0.66,False,0.4741
+CAND_0060331,0.6341,0.0,,4.6,-1.0,64.2,0.43,True,0.4741
+CAND_0096583,0.6411,0.16,"faiss, langchain, llms, rag",2.3,33.3,73.1,0.54,True,0.4733
+CAND_0077696,0.6432,0.08,"langchain, rag",5.8,-1.0,43.9,0.05,False,0.473
+CAND_0085982,0.6357,0.12,"embeddings, faiss, rag",4.0,-1.0,83.0,0.51,False,0.4726
+CAND_0028590,0.6369,0.08,"pinecone, rag",4.7,-1.0,74.5,0.36,False,0.4725
+CAND_0016197,0.6388,0.08,"embeddings, langchain",4.7,-1.0,25.5,0.46,True,0.472
+CAND_0007177,0.6499,0.16,"embeddings, faiss, pinecone, rag",4.0,-1.0,58.6,0.44,False,0.4715
+CAND_0089871,0.6364,0.2,"embeddings, faiss, langchain, llms, rag",2.2,-1.0,73.0,0.75,True,0.4712
+CAND_0055026,0.6387,0.08,"faiss, pinecone",2.8,10.7,84.5,0.61,True,0.4711
+CAND_0009169,0.6327,0.16,"embeddings, langchain, pinecone, rag",3.5,-1.0,70.4,0.18,True,0.471
+CAND_0023074,0.6489,0.2,"embeddings, faiss, langchain, pinecone, rag",4.0,-1.0,25.2,0.13,True,0.4709
+CAND_0091175,0.6366,0.16,"embeddings, faiss, langchain, pinecone",4.2,-1.0,84.4,0.08,False,0.4709
+CAND_0061903,0.6416,0.08,"langchain, pinecone",4.3,-1.0,58.7,0.76,False,0.4709
+CAND_0021255,0.6438,0.2,"embeddings, faiss, langchain, llms, rag",2.2,-1.0,60.2,0.78,True,0.4694
+CAND_0031674,0.6324,0.0,,6.0,-1.0,62.6,0.06,False,0.4693
+CAND_0063658,0.6351,0.16,"embeddings, faiss, langchain, llms",2.6,42.7,81.6,0.07,True,0.4693
+CAND_0052722,0.6338,0.2,"embeddings, faiss, langchain, pinecone, rag",3.6,-1.0,80.6,0.3,False,0.4682
+CAND_0041799,0.6378,0.2,"embeddings, faiss, langchain, pinecone, rag",4.1,27.2,47.5,0.16,False,0.4676
+CAND_0030467,0.6378,0.0,,6.4,-1.0,32.3,0.15,False,0.4675
+CAND_0056408,0.6522,0.08,"embeddings, llms",4.6,10.5,45.2,0.38,False,0.4673
+CAND_0018304,0.6345,0.12,"faiss, llms, pinecone",4.5,-1.0,45.4,0.64,False,0.4671
+CAND_0004236,0.6336,0.2,"embeddings, faiss, langchain, pinecone, rag",4.8,-1.0,33.6,0.24,False,0.4668
+CAND_0061361,0.6429,0.16,"embeddings, langchain, pinecone, rag",3.6,-1.0,77.6,0.35,False,0.4667
+CAND_0082803,0.6323,0.2,"faiss, langchain, llms, pinecone, rag",2.5,-1.0,83.4,0.29,True,0.4666
+CAND_0097515,0.638,0.0,,5.6,-1.0,55.6,0.22,False,0.4654
+CAND_0048795,0.6443,0.12,"faiss, llms, pinecone",4.3,-1.0,60.4,0.3,False,0.4654
+CAND_0093770,0.6387,0.16,"embeddings, langchain, pinecone, rag",3.7,-1.0,69.9,0.42,False,0.4649
+CAND_0040027,0.6345,0.12,"faiss, langchain, llms",4.5,-1.0,60.0,0.32,False,0.4648
+CAND_0065541,0.6469,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.4,-1.0,81.8,0.53,True,0.4642
+CAND_0052742,0.6325,0.12,"faiss, langchain, pinecone",4.5,-1.0,49.0,0.51,False,0.4641
+CAND_0092753,0.6396,0.12,"embeddings, langchain, pinecone",3.6,-1.0,79.8,0.47,False,0.4638
+CAND_0092796,0.6497,0.2,"embeddings, faiss, langchain, pinecone, rag",3.3,-1.0,69.4,0.27,False,0.4636
+CAND_0069889,0.6322,0.2,"embeddings, langchain, llms, pinecone, rag",2.5,15.7,45.7,0.66,True,0.4635
+CAND_0095909,0.6357,0.16,"embeddings, faiss, pinecone, rag",4.1,-1.0,69.1,0.17,False,0.4635
+CAND_0087311,0.6509,0.2,"embeddings, faiss, langchain, pinecone, rag",3.5,-1.0,51.7,0.39,False,0.463
+CAND_0091454,0.6449,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",2.2,-1.0,75.6,0.75,False,0.4627
+CAND_0016550,0.6395,0.2,"faiss, langchain, llms, pinecone, rag",4.2,-1.0,53.2,0.06,False,0.4621
+CAND_0087775,0.6321,0.2,"embeddings, faiss, langchain, pinecone, rag",3.3,31.6,74.8,0.1,False,0.4619
+CAND_0078263,0.6492,0.16,"embeddings, faiss, llms, rag",2.5,-1.0,56.4,0.5,True,0.4618
+CAND_0035411,0.644,0.12,"embeddings, langchain, rag",2.3,-1.0,71.9,0.66,True,0.4617
+CAND_0060252,0.6407,0.2,"embeddings, faiss, langchain, llms, rag",2.3,-1.0,81.5,0.15,True,0.4616
+CAND_0021680,0.6396,0.16,"embeddings, langchain, pinecone, rag",3.2,-1.0,36.9,0.51,True,0.4616
+CAND_0086350,0.6427,0.2,"embeddings, langchain, llms, pinecone, rag",1.5,-1.0,80.0,0.67,True,0.4614
+CAND_0085475,0.6335,0.16,"faiss, llms, pinecone, rag",2.9,30.9,83.8,0.37,False,0.461
+CAND_0034641,0.6361,0.16,"embeddings, faiss, llms, pinecone",3.6,-1.0,84.7,0.15,False,0.4609
+CAND_0020313,0.634,0.08,"embeddings, faiss",3.9,-1.0,61.6,0.77,False,0.4609
+CAND_0061365,0.6383,0.16,"embeddings, faiss, pinecone, rag",3.7,38.4,52.1,0.2,False,0.4607
+CAND_0001419,0.6481,0.16,"faiss, llms, pinecone, rag",1.8,19.2,71.4,0.5,True,0.4605
+CAND_0051343,0.6339,0.12,"embeddings, faiss, rag",3.8,-1.0,52.9,0.77,False,0.4605
+CAND_0001406,0.6377,0.08,"langchain, rag",5.0,-1.0,46.6,0.21,False,0.4604
+CAND_0061102,0.6502,0.2,"embeddings, faiss, langchain, pinecone, rag",2.1,26.0,75.8,0.58,False,0.4602
+CAND_0083203,0.6496,0.16,"embeddings, faiss, langchain, rag",3.4,-1.0,31.8,0.2,True,0.4587
+CAND_0047472,0.634,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",2.7,-1.0,69.2,0.56,False,0.4584
+CAND_0030732,0.6422,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.8,32.8,84.6,0.43,False,0.4582
+CAND_0014110,0.637,0.0,,4.4,-1.0,68.1,0.58,False,0.458
+CAND_0002752,0.6424,0.12,"embeddings, faiss, langchain",4.6,-1.0,29.6,0.36,False,0.4568
+CAND_0060251,0.6382,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",2.0,29.2,46.8,0.31,True,0.4566
+CAND_0076274,0.6342,0.2,"embeddings, faiss, langchain, pinecone, rag",2.8,-1.0,43.1,0.39,True,0.4564
+CAND_0055763,0.6429,0.12,"embeddings, faiss, rag",3.8,2.0,53.8,0.45,False,0.4564
+CAND_0069779,0.6417,0.2,"faiss, langchain, llms, pinecone, rag",2.3,-1.0,79.7,0.65,False,0.4562
+CAND_0025633,0.6392,0.08,"langchain, pinecone",4.3,-1.0,55.5,0.36,False,0.4562
+CAND_0066324,0.6351,0.08,"langchain, rag",3.5,-1.0,47.4,0.42,True,0.4559
+CAND_0043034,0.6438,0.16,"embeddings, langchain, pinecone, rag",3.7,-1.0,46.3,0.43,False,0.4559
+CAND_0054647,0.643,0.2,"embeddings, faiss, llms, pinecone, rag",3.2,-1.0,47.8,0.54,False,0.4556
+CAND_0091863,0.6365,0.16,"embeddings, faiss, langchain, pinecone",2.5,-1.0,68.4,0.3,True,0.4555
+CAND_0057972,0.6376,0.12,"embeddings, pinecone, rag",4.4,-1.0,57.6,0.05,False,0.4551
+CAND_0080526,0.6373,0.16,"langchain, llms, pinecone, rag",4.3,-1.0,38.1,0.24,False,0.4549
+CAND_0002813,0.6357,0.2,"embeddings, faiss, llms, pinecone, rag",3.7,-1.0,47.2,0.31,False,0.4547
+CAND_0095574,0.6323,0.2,"embeddings, faiss, llms, pinecone, rag",2.6,-1.0,77.2,0.57,False,0.4538
+CAND_0098550,0.634,0.16,"embeddings, langchain, llms, rag",4.0,-1.0,40.8,0.4,False,0.4534
+CAND_0097246,0.6559,0.12,"embeddings, langchain, pinecone",4.2,-1.0,35.9,0.18,False,0.4533
+CAND_0074559,0.6472,0.2,"embeddings, faiss, langchain, llms, rag",2.5,-1.0,82.7,0.28,False,0.4533
+CAND_0076719,0.6432,0.16,"faiss, llms, pinecone, rag",2.7,-1.0,65.4,0.68,False,0.4527
+CAND_0002601,0.6542,0.12,"embeddings, llms, pinecone",3.9,-1.0,44.8,0.24,False,0.4527
+CAND_0085330,0.634,0.16,"faiss, llms, pinecone, rag",3.1,-1.0,61.1,0.64,False,0.4527
+CAND_0010621,0.6353,0.16,"embeddings, faiss, langchain, pinecone",2.5,-1.0,42.6,0.64,True,0.4522
+CAND_0095844,0.6454,0.12,"langchain, llms, rag",4.1,-1.0,44.9,0.23,False,0.4521
+CAND_0083062,0.6349,0.16,"embeddings, faiss, langchain, llms",4.2,15.5,26.0,0.3,False,0.4521
+CAND_0005357,0.6324,0.16,"faiss, llms, pinecone, rag",2.5,-1.0,66.1,0.29,True,0.452
+CAND_0087876,0.656,0.12,"embeddings, faiss, rag",1.6,-1.0,73.1,0.58,True,0.4519
+CAND_0041270,0.6347,0.0,,4.9,-1.0,47.2,0.43,False,0.4519
+CAND_0023237,0.6397,0.2,"embeddings, faiss, langchain, pinecone, rag",4.2,-1.0,29.5,0.11,False,0.4519
+CAND_0033000,0.6372,0.16,"langchain, llms, pinecone, rag",2.1,-1.0,64.5,0.49,True,0.4516
+CAND_0008875,0.6433,0.12,"embeddings, faiss, pinecone",4.0,-1.0,46.8,0.28,False,0.4514
+CAND_0051474,0.6457,0.12,"embeddings, faiss, langchain",3.3,12.8,78.1,0.05,False,0.4512
+CAND_0040730,0.6417,0.16,"embeddings, llms, pinecone, rag",3.0,20.5,60.2,0.32,False,0.4507
+CAND_0068560,0.6341,0.12,"faiss, langchain, llms",3.5,-1.0,76.9,0.23,False,0.4504
+CAND_0099080,0.6439,0.16,"embeddings, faiss, langchain, llms",3.2,-1.0,71.8,0.14,False,0.4501
+CAND_0026708,0.6396,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.7,-1.0,57.0,0.39,True,0.45
+CAND_0083657,0.6342,0.2,"embeddings, faiss, langchain, llms, pinecone",2.7,-1.0,77.9,0.33,False,0.45
+CAND_0059099,0.6331,0.16,"faiss, langchain, pinecone, rag",2.6,48.4,75.3,0.17,False,0.4498
+CAND_0050679,0.6625,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",2.3,-1.0,63.4,0.16,False,0.4498
+CAND_0061868,0.6405,0.2,"embeddings, faiss, langchain, pinecone, rag",2.4,24.9,29.4,0.3,True,0.4494
+CAND_0095685,0.6591,0.16,"embeddings, langchain, llms, rag",2.5,-1.0,65.6,0.43,False,0.4492
+CAND_0042378,0.6402,0.16,"embeddings, langchain, pinecone, rag",3.3,-1.0,63.7,0.24,False,0.4491
+CAND_0098680,0.6404,0.16,"embeddings, faiss, llms, pinecone",3.2,-1.0,35.6,0.76,False,0.4488
+CAND_0035349,0.6337,0.2,"faiss, langchain, llms, pinecone, rag",3.8,-1.0,31.4,0.34,False,0.4487
+CAND_0030680,0.6366,0.08,"embeddings, llms",2.0,-1.0,76.1,0.67,True,0.4484
+CAND_0082874,0.6326,0.2,"embeddings, faiss, langchain, llms, pinecone",2.0,-1.0,39.1,0.73,True,0.4478
+CAND_0049122,0.6333,0.2,"embeddings, faiss, langchain, llms, pinecone",3.5,-1.0,51.1,0.18,False,0.4476
+CAND_0066422,0.6374,0.16,"langchain, llms, pinecone, rag",3.5,12.1,25.2,0.61,False,0.4472
+CAND_0023306,0.6405,0.2,"embeddings, faiss, langchain, llms, pinecone",2.9,-1.0,68.7,0.14,False,0.4468
+CAND_0035680,0.6358,0.16,"faiss, langchain, pinecone, rag",2.3,-1.0,60.0,0.27,True,0.446
+CAND_0043313,0.6329,0.04,llms,2.0,29.6,72.0,0.61,True,0.4456
+CAND_0056158,0.6405,0.16,"embeddings, langchain, llms, pinecone",3.1,26.5,44.7,0.28,False,0.445
+CAND_0083168,0.6397,0.2,"embeddings, faiss, langchain, llms, pinecone",1.5,-1.0,81.7,0.14,True,0.4449
+CAND_0088375,0.6338,0.16,"embeddings, faiss, langchain, pinecone",1.4,18.1,69.9,0.52,True,0.4449
+CAND_0016241,0.6329,0.12,"faiss, pinecone, rag",4.5,-1.0,25.6,0.24,False,0.4444
+CAND_0034298,0.64,0.0,,5.2,-1.0,30.5,0.15,False,0.4438
+CAND_0063635,0.6318,0.12,"llms, pinecone, rag",2.6,-1.0,31.9,0.69,True,0.4425
+CAND_0008809,0.6386,0.08,"langchain, rag",3.8,-1.0,49.9,0.34,False,0.4425
+CAND_0015367,0.6438,0.12,"embeddings, pinecone, rag",1.9,-1.0,56.0,0.54,True,0.4421
+CAND_0053258,0.647,0.2,"embeddings, faiss, langchain, pinecone, rag",1.6,-1.0,25.2,0.74,True,0.4403
+CAND_0073765,0.6385,0.2,"embeddings, faiss, langchain, pinecone, rag",1.9,3.4,39.2,0.41,True,0.4402
+CAND_0087192,0.6415,0.12,"faiss, llms, pinecone",2.8,-1.0,67.0,0.39,False,0.44
+CAND_0095500,0.6361,0.0,,5.0,-1.0,34.6,0.15,False,0.4399
+CAND_0011766,0.6368,0.12,"faiss, pinecone, rag",3.1,-1.0,50.5,0.5,False,0.4387
+CAND_0028465,0.6418,0.08,"llms, rag",3.4,-1.0,51.5,0.39,False,0.4383
+CAND_0038038,0.6344,0.16,"embeddings, faiss, langchain, llms",3.6,-1.0,32.9,0.26,False,0.4374
+CAND_0081857,0.6364,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",2.5,-1.0,54.3,0.2,False,0.4373
+CAND_0066733,0.6417,0.2,"embeddings, faiss, langchain, pinecone, rag",1.9,-1.0,59.0,0.63,False,0.4373
+CAND_0047159,0.6488,0.12,"langchain, llms, rag",1.9,23.6,77.7,0.36,False,0.4371
+CAND_0056089,0.6436,0.12,"embeddings, langchain, rag",2.2,26.3,71.8,0.31,False,0.4369
+CAND_0069343,0.6429,0.04,llms,3.5,-1.0,69.1,0.15,False,0.4365
+CAND_0060220,0.6535,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.6,-1.0,40.4,0.71,False,0.4362
+CAND_0086760,0.6396,0.08,"langchain, rag",3.6,0.4,49.9,0.23,False,0.4357
+CAND_0004980,0.6435,0.2,"embeddings, langchain, llms, pinecone, rag",1.4,-1.0,35.0,0.61,True,0.4356
+CAND_0030693,0.6362,0.2,"embeddings, faiss, langchain, pinecone, rag",1.9,-1.0,44.7,0.23,True,0.4354
+CAND_0082960,0.6422,0.08,"embeddings, llms",2.5,25.0,56.9,0.53,False,0.435
+CAND_0013533,0.6436,0.12,"embeddings, faiss, pinecone",2.4,-1.0,61.2,0.53,False,0.4343
+CAND_0096760,0.6341,0.16,"embeddings, faiss, llms, pinecone",3.4,-1.0,25.6,0.41,False,0.4342
+CAND_0068413,0.6346,0.08,"faiss, langchain",3.7,35.3,34.3,0.1,False,0.434
+CAND_0016178,0.6383,0.2,"embeddings, faiss, langchain, llms, rag",1.3,12.0,64.9,0.75,False,0.4337
+CAND_0088401,0.6419,0.0,,3.5,-1.0,27.8,0.28,True,0.4333
+CAND_0064011,0.6383,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.6,-1.0,45.9,0.76,False,0.4329
+CAND_0031820,0.6356,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.0,-1.0,66.7,0.17,True,0.4323
+CAND_0064581,0.636,0.2,"faiss, langchain, llms, pinecone, rag",2.5,-1.0,44.6,0.39,False,0.432
+CAND_0002534,0.6367,0.16,"faiss, llms, pinecone, rag",2.2,4.9,65.4,0.38,False,0.4319
+CAND_0019696,0.6425,0.2,"embeddings, langchain, llms, pinecone, rag",1.7,-1.0,79.0,0.23,False,0.4317
+CAND_0049095,0.6407,0.08,"embeddings, faiss",2.8,-1.0,73.0,0.22,False,0.4315
+CAND_0084087,0.6392,0.12,"faiss, langchain, pinecone",3.4,-1.0,40.7,0.15,False,0.4305
+CAND_0022676,0.6336,0.2,"embeddings, faiss, llms, pinecone, rag",2.1,31.2,40.4,0.39,False,0.4301
+CAND_0071770,0.6478,0.08,"faiss, langchain",1.7,44.6,73.6,0.33,False,0.43
+CAND_0056956,0.6386,0.16,"embeddings, faiss, llms, pinecone",2.7,4.3,32.6,0.48,False,0.4293
+CAND_0030141,0.6461,0.16,"embeddings, faiss, langchain, pinecone",2.3,2.2,63.1,0.13,False,0.4291
+CAND_0057180,0.6341,0.12,"embeddings, langchain, rag",2.4,-1.0,62.4,0.49,False,0.429
+CAND_0066098,0.6486,0.16,"langchain, llms, pinecone, rag",2.4,-1.0,51.1,0.21,False,0.4281
+CAND_0026513,0.643,0.16,"faiss, langchain, llms, pinecone",1.1,11.7,50.5,0.39,True,0.428
+CAND_0036229,0.6403,0.12,"embeddings, langchain, rag",2.6,-1.0,63.3,0.16,False,0.4266
+CAND_0076096,0.6335,0.16,"embeddings, langchain, llms, pinecone",1.3,9.9,67.8,0.76,False,0.4264
+CAND_0085252,0.6414,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.7,-1.0,35.3,0.57,False,0.4255
+CAND_0081206,0.6437,0.08,"llms, pinecone",2.8,-1.0,36.1,0.55,False,0.4244
+CAND_0059303,0.6328,0.0,,2.8,7.5,73.6,0.43,False,0.4243
+CAND_0068542,0.6319,0.0,,2.4,-1.0,39.0,0.69,True,0.4241
+CAND_0022796,0.6406,0.2,"embeddings, faiss, langchain, pinecone, rag",1.2,-1.0,65.8,0.56,False,0.424
+CAND_0040916,0.6403,0.16,"embeddings, faiss, llms, pinecone",1.6,-1.0,32.8,0.38,True,0.4239
+CAND_0041349,0.6389,0.12,"embeddings, llms, rag",1.4,6.2,76.4,0.61,False,0.4238
+CAND_0020516,0.6364,0.12,"llms, pinecone, rag",2.8,5.2,27.4,0.54,False,0.4237
+CAND_0098722,0.6316,0.16,"embeddings, langchain, llms, rag",2.6,-1.0,56.7,0.11,False,0.4235
+CAND_0080186,0.6353,0.12,"embeddings, llms, rag",1.6,40.8,60.6,0.42,False,0.4228
+CAND_0009229,0.6516,0.16,"embeddings, faiss, llms, pinecone",1.5,-1.0,56.1,0.5,False,0.4228
+CAND_0053064,0.6366,0.08,"faiss, rag",1.7,-1.0,44.9,0.53,True,0.4226
+CAND_0020382,0.6325,0.0,,1.8,20.6,48.9,0.64,True,0.4221
+CAND_0052736,0.6342,0.2,"embeddings, faiss, langchain, pinecone, rag",2.5,-1.0,33.3,0.28,False,0.4221
+CAND_0081523,0.6494,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.2,-1.0,28.4,0.77,False,0.422
+CAND_0019684,0.6466,0.2,"embeddings, faiss, llms, pinecone, rag",1.2,-1.0,48.7,0.67,False,0.4218
+CAND_0037613,0.6373,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.3,-1.0,37.5,0.73,False,0.4213
+CAND_0041255,0.6529,0.16,"faiss, langchain, pinecone, rag",1.5,-1.0,53.0,0.45,False,0.4204
+CAND_0004193,0.6332,0.16,"embeddings, faiss, llms, pinecone",2.2,-1.0,30.3,0.63,False,0.4186
+CAND_0020974,0.6555,0.16,"embeddings, langchain, llms, pinecone",1.1,-1.0,81.4,0.1,False,0.4174
+CAND_0010363,0.6373,0.04,llms,2.2,-1.0,61.8,0.59,False,0.4173
+CAND_0005914,0.6526,0.16,"embeddings, llms, pinecone, rag",1.0,-1.0,49.4,0.67,False,0.4151
+CAND_0047215,0.6386,0.2,"embeddings, faiss, langchain, pinecone, rag",1.5,-1.0,43.6,0.4,False,0.4131
+CAND_0052011,0.6379,0.12,"embeddings, faiss, langchain",1.8,-1.0,32.1,0.09,True,0.4117
+CAND_0065302,0.6361,0.16,"embeddings, faiss, langchain, pinecone",1.1,-1.0,79.0,0.27,False,0.4116
+CAND_0028777,0.6353,0.08,"embeddings, pinecone",2.0,-1.0,59.2,0.38,False,0.4106
+CAND_0033739,0.635,0.2,"embeddings, faiss, langchain, llms, rag",1.4,-1.0,46.0,0.4,False,0.4105
+CAND_0097390,0.6387,0.0,,1.9,-1.0,75.5,0.49,False,0.4098
+CAND_0002126,0.6514,0.04,rag,2.0,-1.0,32.0,0.07,True,0.4098
+CAND_0080810,0.6366,0.16,"embeddings, faiss, pinecone, rag",1.2,-1.0,72.5,0.2,False,0.4085
+CAND_0053166,0.6337,0.16,"embeddings, faiss, langchain, llms",1.5,39.6,26.4,0.41,False,0.4082
+CAND_0086190,0.6404,0.16,"embeddings, faiss, langchain, pinecone",1.8,-1.0,47.3,0.13,False,0.4077
+CAND_0096694,0.6321,0.16,"faiss, langchain, llms, rag",1.2,-1.0,55.1,0.47,False,0.4057
+CAND_0015108,0.6315,0.08,"faiss, pinecone",2.4,-1.0,33.9,0.42,False,0.4053
+CAND_0046822,0.6431,0.08,"pinecone, rag",1.3,25.0,66.0,0.17,False,0.4052
+CAND_0033393,0.6377,0.16,"faiss, langchain, llms, pinecone",1.8,-1.0,28.2,0.38,False,0.4044
+CAND_0050930,0.6321,0.08,"faiss, langchain",2.2,-1.0,27.4,0.6,False,0.4038
+CAND_0047084,0.6405,0.24,"embeddings, faiss, langchain, llms, pinecone, rag",1.2,-1.0,37.7,0.14,False,0.4033
+CAND_0010936,0.6369,0.08,"langchain, pinecone",1.0,11.0,57.3,0.69,False,0.4031
+CAND_0051304,0.6443,0.16,"embeddings, faiss, llms, rag",1.8,-1.0,35.7,0.1,False,0.403
+CAND_0078963,0.6343,0.2,"embeddings, langchain, llms, pinecone, rag",1.7,2.2,27.6,0.2,False,0.4016
+CAND_0042913,0.6337,0.12,"embeddings, faiss, rag",1.4,-1.0,58.5,0.3,False,0.4011
+CAND_0030322,0.6327,0.0,,1.5,48.1,47.2,0.49,False,0.3991
+CAND_0083678,0.6342,0.12,"embeddings, langchain, llms",1.8,-1.0,36.1,0.32,False,0.3988
+CAND_0024644,0.6475,0.12,"faiss, langchain, llms",1.0,39.5,36.4,0.18,False,0.3972
+CAND_0002346,0.636,0.12,"embeddings, langchain, llms",1.1,-1.0,47.4,0.49,False,0.3964
+CAND_0063707,0.6497,0.08,"langchain, pinecone",1.2,12.7,34.8,0.21,False,0.3883
